@@ -1,0 +1,117 @@
+/*
+Theme Name: Alliance Child
+Template: alliance
+Theme URI: https://alliance.themerex.net/
+Description: Alliance is a Premium WordPress theme that has built-in support for popular Page Builders, slider with swipe gestures, and is SEO- and Retina-ready. The unique system of inheritance and override options allows setting up individual parameters for different sections of your site and supported plugins.
+Author: ThemeREX
+Author URI: https://themerex.net/
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+.add-new-heading {
+	display: none;
+}
+
+.acf-fields .acf-field:first-child {
+  display: none;
+}
+
+.acf-field {
+  border: none;
+}
+
+.sc_layouts_title_caption {
+  display: none;
+}
+
+.post_content_title:after {
+  display: none;
+}
+
+.dataTables_filter input {
+  width: 300px;
+}
+
+.button-wrapper {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 2px;
+}
+
+.button-wrapper2 {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 2px;
+}
+
+ .acf-button {
+  font-family:Outfit,sans-serif;
+	font-size: var(--theme-font-button_font-size); /* replace with font-size:12px; */
+	font-weight:600;
+	font-style:normal;
+	line-height:21px;
+	text-decoration:none;
+	text-transform:uppercase;
+	letter-spacing:0.06em;
+  -webkit-appearance: none;
+  cursor: pointer;
+  display: inline-block;
+  vertical-align: top;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-border-radius: var(--theme-var-rad);
+  -ms-border-radius: var(--theme-var-rad);
+  border-radius: var(--theme-var-rad);
+  white-space: nowrap;
+  height: auto;
+  max-width: 100%;
+  -webkit-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  color: var(--theme-color-accent_text);
+  border-color: var(--theme-color-accent_link);
+  background-color: var(--theme-color-accent_link);
+  box-shadow: var(--theme-var-btn_shadow) var(--theme-color-accent_link_02);
+  padding: var(--theme-var-btn_padding) var(--theme-var-btn_padding2);
+  border-width: 0 !important;
+}
+
+.acf-button:hover {
+  color: var(--theme-color-accent_text);
+  border-color: var(--theme-color-accent_hover);
+  background-color: var(--theme-color-accent_hover);
+  box-shadow: var(--theme-var-btn_shadow) var(--theme-color-accent_hover_02);
+} 
+
+#registration-form {
+   width: 1000px;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+
+.delete-record .delete-button {
+  background-color: #DC3545;
+  margin-left: 2px;
+  text-transform: capitalize;
+} 

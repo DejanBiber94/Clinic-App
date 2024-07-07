@@ -1,0 +1,1836 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Alliance\n"
+"POT-Creation-Date: 2022-12-12 13:53+0100\n"
+"PO-Revision-Date: 2022-12-12 13:53+0100\n"
+"Last-Translator: \n"
+"Language-Team: ThemeREX\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-KeywordsList: translate_nooped_plural;gettext_noop;gettext;"
+"esc_html__;esc_html_e;esc_html_x;esc_attr__;esc_attr_e;_n_noop;_nx;_n;_x;_e;"
+"__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: plugins/bbpress/bbpress-skin.php:63 plugins/bbpress/bbpress-skin.php:69
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: plugins/bbpress/bbpress-skin.php:64
+#, fuzzy
+#| msgid "Select parameters to display the courses pages"
+msgid "Select parameters to display the BuddyPress pages"
+msgstr "Selecciona par√°metros para visualizar las p√°ginas de cursos"
+
+#: plugins/bbpress/bbpress-skin.php:80 plugins/bbpress/bbpress-skin.php:97
+#, fuzzy
+#| msgid "BBPress"
+msgid "bbPress"
+msgstr "BBPress"
+
+#: plugins/bbpress/bbpress-skin.php:81
+#, fuzzy
+#| msgid "Select parameters to display the courses pages"
+msgid "Select parameters to display the BBPress pages"
+msgstr "Selecciona par√°metros para visualizar las p√°ginas de cursos"
+
+#: plugins/bbpress/bbpress-skin.php:86
+msgid "Forum style"
+msgstr "Estilo del foro"
+
+#: plugins/bbpress/bbpress-skin.php:87
+msgid "Select style to display forums list on the community pages"
+msgstr ""
+"Selecciona el estilo para mostrar la lista de foros en las p√°ginas "
+"comunitarias"
+
+#: plugins/bbpress/bbpress-skin.php:90 skin-setup.php:348 skin-setup.php:666
+#: skin-setup.php:1024 skin.php:589
+msgid "Default"
+msgstr "Defecto"
+
+#: plugins/bbpress/bbpress-skin.php:91
+#: plugins/woocommerce/woocommerce-skin.php:85 skin.php:595
+msgid "Light"
+msgstr "Ligero"
+
+#: plugins/bbpress/bbpress-skin.php:92
+msgid "Callouts"
+msgstr "Llamadas"
+
+#: plugins/bbpress/bbpress-skin.php:216 plugins/bbpress/bbpress-skin.php:231
+#: plugins/buddypress-docs/buddypress-docs.php:275 skin.php:576
+#, fuzzy
+#| msgid "Views"
+msgid "View All"
+msgstr "Vistas"
+
+#: plugins/bbpress/bbpress-skin.php:367
+msgid "Cancel Request"
+msgstr ""
+
+#: plugins/bbpress/bbpress-skin.php:408
+#, fuzzy
+#| msgid "BBPress and BuddyPress"
+msgid "Clear BBPress and BuddyPress tables"
+msgstr "BBPress y BuddyPress"
+
+#: plugins/bbpress/bbpress-skin.php:442 plugins/bbpress/bbpress-skin.php:540
+msgid "rtMedia for BuddyPress and bbPress"
+msgstr ""
+
+#: plugins/bbpress/bbpress-skin.php:482
+msgid "Import rtMedia for BuddyPress and bbPress"
+msgstr ""
+
+#: plugins/bbpress/bbpress-skin.php:496 plugins/bbpress/bbpress-skin.php:510
+msgid "rtMedia for BuddyPress and bbPress meta"
+msgstr ""
+
+#: plugins/buddypress-docs/buddypress-docs.php:24
+#: plugins/buddypress-docs/buddypress-docs.php:30 skin-plugins.php:44
+#, fuzzy
+#| msgid "BuddyPress"
+msgid "BuddyPress Docs"
+msgstr "BuddyPress"
+
+#: plugins/buddypress-docs/buddypress-docs.php:25
+#, fuzzy
+#| msgid "Select parameters to display the courses pages"
+msgid "Select parameters to display the BuddyPress Docs pages"
+msgstr "Selecciona par√°metros para visualizar las p√°ginas de cursos"
+
+#: plugins/democracy-poll/democracy-poll.php:232
+#: plugins/democracy-poll/democracy-poll.php:329 skin-plugins.php:65
+msgid "Democracy Poll"
+msgstr ""
+
+#: plugins/democracy-poll/democracy-poll.php:272
+msgid "Import Democracy Poll"
+msgstr ""
+
+#: plugins/democracy-poll/democracy-poll.php:286
+#: plugins/democracy-poll/democracy-poll.php:300
+msgid "Democracy Poll meta"
+msgstr ""
+
+#: plugins/echo-knowledge-base/echo-knowledge-base.php:24
+#: plugins/echo-knowledge-base/echo-knowledge-base.php:30
+msgid "Knowledge Base"
+msgstr ""
+
+#: plugins/echo-knowledge-base/echo-knowledge-base.php:25
+#, fuzzy
+#| msgid "Select parameters to display the downloads pages"
+msgid "Select parameters to display the Knowledge Base pages"
+msgstr "Selecciona par√°metros para visualizar las p√°ginas de descargas"
+
+#: plugins/elementor/elementor-skin.php:29
+msgid "Ginormous"
+msgstr ""
+
+#: plugins/elementor/elementor-style.php:45
+#, fuzzy
+#| msgid "Theme-specific options"
+msgid "Theme Specific"
+msgstr "Opciones de los temas espec√≠ficos"
+
+#: plugins/elementor/elementor-style.php:46
+msgid "Fade In Up (Short)"
+msgstr ""
+
+#: plugins/elementor/elementor-style.php:47
+msgid "Fade In Right (Short)"
+msgstr ""
+
+#: plugins/elementor/elementor-style.php:48
+msgid "Fade In Left (Short)"
+msgstr ""
+
+#: plugins/elementor/elementor-style.php:49
+msgid "Fade In Down (Short)"
+msgstr ""
+
+#: plugins/elementor/elementor-style.php:50
+msgid "Fade In (Short)"
+msgstr ""
+
+#: plugins/elementor/elementor-style.php:51
+#, fuzzy
+#| msgid "Older posts"
+msgid "Under strips"
+msgstr "Publicaciones antiguas"
+
+#: plugins/paid-memberships-pro/paid-memberships-pro.php:230
+#: plugins/paid-memberships-pro/paid-memberships-pro.php:329
+#: skin-plugins.php:130
+msgid "Paid Memberships Pro"
+msgstr ""
+
+#: plugins/paid-memberships-pro/paid-memberships-pro.php:270
+msgid "Import Paid Memberships Pro"
+msgstr ""
+
+#: plugins/paid-memberships-pro/paid-memberships-pro.php:284
+#: plugins/paid-memberships-pro/paid-memberships-pro.php:298
+msgid "Paid Memberships Pro meta"
+msgstr ""
+
+#: plugins/sfwd-lms/sfwd-lms.php:24 plugins/sfwd-lms/sfwd-lms.php:30
+#: plugins/sfwd-lms/sfwd-lms.php:31 plugins/sfwd-lms/sfwd-lms.php:694
+#: plugins/sfwd-lms/sfwd-lms.php:797 skin-plugins.php:93
+#, fuzzy
+#| msgid "Learn More"
+msgid "LearnDash LMS"
+msgstr "M√°s informaci√≥n"
+
+#: plugins/sfwd-lms/sfwd-lms.php:25
+#, fuzzy
+#| msgid "Select parameters to display the cars pages."
+msgid "Select parameters to display the LearnDash LMS pages"
+msgstr "Selecciona par√°metros para visualizar las p√°ginas de coches."
+
+#: plugins/sfwd-lms/sfwd-lms.php:32 plugins/sfwd-lms/sfwd-lms.php:33
+#: plugins/sfwd-lms/sfwd-lms.php:528
+msgid "Courses"
+msgstr "Cursos"
+
+#: plugins/sfwd-lms/sfwd-lms.php:36
+msgid "LearnDash LMS posts"
+msgstr ""
+
+#: plugins/sfwd-lms/sfwd-lms.php:41
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:38
+#: plugins/wp-job-manager/wp-job-manager.php:38 skin-options.php:1888
+msgid "Show author info"
+msgstr "Mostrar informaci√≥n del autor"
+
+#: plugins/sfwd-lms/sfwd-lms.php:42
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:39
+#: plugins/wp-job-manager/wp-job-manager.php:39 skin-options.php:1889
+msgid "Display block with information about post's author"
+msgstr "Visualizar el bloque de informaci√≥n sobre el autor de publicaciones"
+
+#: plugins/sfwd-lms/sfwd-lms.php:47
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:44
+#: plugins/wp-job-manager/wp-job-manager.php:44 skin-options.php:1924
+msgid "Show related posts"
+msgstr "Mostrar publicaciones relacionadas"
+
+#: plugins/sfwd-lms/sfwd-lms.php:48
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:45
+#: plugins/wp-job-manager/wp-job-manager.php:45 skin-options.php:1925
+#, fuzzy
+#| msgid "Show section 'Related posts' on the single post's pages"
+msgid "Show 'Related posts' section on single post pages"
+msgstr ""
+"Mostrar la secci√≥n 'Publicaciones relacionadas' en las p√°ginas de "
+"publicaciones individuales"
+
+#: plugins/sfwd-lms/sfwd-lms.php:53
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:50
+#: plugins/wp-job-manager/wp-job-manager.php:50 skin-options.php:2100
+#, fuzzy
+#| msgid "Show post meta"
+msgid "Show post navigation"
+msgstr "Mostrar post meta"
+
+#: plugins/sfwd-lms/sfwd-lms.php:54
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:51
+#: plugins/wp-job-manager/wp-job-manager.php:51 skin-options.php:2101
+msgid ""
+"Display post navigation on single post pages or load the next post "
+"automatically after the content of the current article."
+msgstr ""
+
+#: plugins/sfwd-lms/sfwd-lms.php:57
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:54
+#: plugins/wp-job-manager/wp-job-manager.php:54 skin-options.php:2049
+#: skin-options.php:2070 skin-options.php:2104 skin-options.php:2555
+#: skin-options.php:2564 skin.php:618
+msgid "None"
+msgstr "Ninguna"
+
+#: plugins/sfwd-lms/sfwd-lms.php:58
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:55
+#: plugins/wp-job-manager/wp-job-manager.php:55 skin-options.php:2105
+#, fuzzy
+#| msgid "Share links"
+msgid "Prev/Next links"
+msgstr "Compartir enlaces"
+
+#: plugins/sfwd-lms/sfwd-lms.php:432
+msgid "About Instructor"
+msgstr ""
+
+#: plugins/sfwd-lms/sfwd-lms.php:452
+#, fuzzy
+#| msgid "Related courses"
+msgid "Back to course"
+msgstr "Cursos relacionados"
+
+#: plugins/sfwd-lms/sfwd-lms.php:479
+msgid "Quizzes"
+msgstr ""
+
+#: plugins/sfwd-lms/sfwd-lms.php:560
+#, fuzzy
+#| msgid "Hide Details"
+msgid "Course Details"
+msgstr "Ocultar Detalles"
+
+#: plugins/sfwd-lms/sfwd-lms.php:612
+#, fuzzy
+#| msgid "Courses"
+msgid "Open Course"
+msgstr "Cursos"
+
+#: plugins/sfwd-lms/sfwd-lms.php:615
+#, fuzzy
+#| msgid "Courses"
+msgid "Free Course"
+msgstr "Cursos"
+
+#: plugins/sfwd-lms/sfwd-lms.php:618
+#, fuzzy
+#| msgid "Courses"
+msgid "Paid Course"
+msgstr "Cursos"
+
+#: plugins/sfwd-lms/sfwd-lms.php:621
+#, fuzzy
+#| msgid "Single course"
+msgid "Recurring Course"
+msgstr "Curso individual"
+
+#: plugins/sfwd-lms/sfwd-lms.php:624
+#, fuzzy
+#| msgid "Related courses"
+msgid "Closed Course"
+msgstr "Cursos relacionados"
+
+#: plugins/sfwd-lms/sfwd-lms.php:631
+msgid "Course Include"
+msgstr ""
+
+#: plugins/sfwd-lms/sfwd-lms.php:654
+msgid "Participants"
+msgstr ""
+
+#: plugins/sfwd-lms/sfwd-lms.php:736
+msgid "Import LearnDash LMS"
+msgstr ""
+
+#: plugins/sfwd-lms/sfwd-lms.php:750 plugins/sfwd-lms/sfwd-lms.php:764
+msgid "LearnDash LMS meta"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:43
+#, fuzzy
+#| msgid "BuddyPress"
+msgid "BuddyPress widgets"
+msgstr "BuddyPress"
+
+#: plugins/trx_addons/trx_addons-setup.php:125
+msgid "Modern Grid"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:134
+msgid "Info over image"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:162
+#: plugins/woocommerce/woocommerce-skin.php:24 skin-options.php:239
+#: skin-options.php:1945 skin-options.php:2948 skin-options.php:3438
+msgid "Classic"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:436 skin-setup.php:724 skin.php:594
+msgid "Dark"
+msgstr "Oscuro"
+
+#: plugins/trx_addons/trx_addons-setup.php:464
+msgid "List styles"
+msgstr "Estilos de listas"
+
+#: plugins/trx_addons/trx_addons-setup.php:466
+msgid "Arrow"
+msgstr "Flecha"
+
+#: plugins/trx_addons/trx_addons-setup.php:504
+msgid "E-mail"
+msgstr "Correo electr√≥nico"
+
+#: plugins/trx_addons/trx_addons-setup.php:505
+msgid "Team member's email"
+msgstr "Correo electr√≥nico del miembro del equipo"
+
+#: plugins/trx_addons/trx_addons-setup.php:767
+msgid "3:2"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:768
+msgid "10:7"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:868
+#: plugins/trx_addons/trx_addons.gutenberg-editor.js:38
+msgid "Image source URL:"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:899
+#, fuzzy
+#| msgid "Add Images"
+msgid "Image"
+msgstr "A√±adir Im√°genes"
+
+#: plugins/trx_addons/trx_addons-setup.php:916
+#: plugins/trx_addons/trx_addons-setup.php:1041
+msgid "Background"
+msgstr "Fondo"
+
+#: plugins/woocommerce/woocommerce-skin.php:19 skin-options.php:230
+#: skin-options.php:2943
+#, fuzzy
+#| msgid "Posts content"
+msgid "Page content"
+msgstr "Contenido de publicaciones"
+
+#: plugins/woocommerce/woocommerce-skin.php:20 skin-options.php:231
+#: skin-options.php:2944
+msgid ""
+"Choose between the style of your page content. The classic view provides you "
+"with the primary content block and a sidebar, while the masonry view "
+"positions each block on a separate background."
+msgstr ""
+
+#: plugins/woocommerce/woocommerce-skin.php:28 skin-options.php:243
+#: skin-options.php:2952
+msgid "Blocks"
+msgstr ""
+
+#: plugins/woocommerce/woocommerce-skin.php:178
+msgid "Search for products &hellip;"
+msgstr "Buscar productos &hellip;"
+
+#: plugins/woocommerce/woocommerce-skin.php:178
+#, fuzzy
+#| msgid "Products"
+msgid "Product search"
+msgstr "Productos"
+
+#: plugins/woocommerce/woocommerce-skin.php:178 skin-options.php:2355
+#: skin.php:422 templates/search-form.php:19
+#: trx_addons/templates/tpl.search-form.php:15
+msgid "Search"
+msgstr "Buscar"
+
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:24
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:30
+msgid "WP Resume Manager"
+msgstr ""
+
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:25
+#, fuzzy
+#| msgid "Select parameters to display the Tour Master pages"
+msgid "Select parameters to display the WP Resume Manager pages"
+msgstr "Selecciona par√°metros para visualizar las p√°ginas de Tour Master"
+
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:33
+msgid "WP Resume Manager posts"
+msgstr ""
+
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:305
+#, fuzzy, php-format
+#| msgid "Update %2$s"
+msgid "Updated %s ago"
+msgstr "Actualizar %2$s"
+
+#: plugins/wp-job-manager-resumes/wp-job-manager-resumes.php:314
+#, fuzzy
+#| msgid "Portfolio"
+msgid "Profile & Portfolio"
+msgstr "Cartera"
+
+#: plugins/wp-job-manager/templates/content-single-job_listing-company.php:35
+msgid "Contact Us"
+msgstr "Cont√°ctanos"
+
+#: plugins/wp-job-manager/wp-job-manager.php:24
+#: plugins/wp-job-manager/wp-job-manager.php:30 skin-plugins.php:172
+msgid "WP Job Manager"
+msgstr ""
+
+#: plugins/wp-job-manager/wp-job-manager.php:25
+#, fuzzy
+#| msgid "Select parameters to display the Tour Master pages"
+msgid "Select parameters to display the WP Job Manager pages"
+msgstr "Selecciona par√°metros para visualizar las p√°ginas de Tour Master"
+
+#: plugins/wp-job-manager/wp-job-manager.php:33
+msgid "WP Job Manager posts"
+msgstr ""
+
+#: skin-demo-importer.php:32
+msgid "Alliance Demo"
+msgstr "Demo de Alliance"
+
+#: skin-demo-importer.php:51
+#, fuzzy
+#| msgid "Alliance Demo"
+msgid "Alliance OCDI Demo"
+msgstr "Demo de Alliance"
+
+#: skin-options.php:27
+msgid ""
+"Attention! Some of these options can be overridden in the following sections "
+"(Blog, Plugins settings, etc.) or in the settings of individual pages. If "
+"you changed such parameter and nothing happened on the page, this option may "
+"be overridden in the corresponding section or in the Page Options of this "
+"page. These options are marked with an asterisk (*) in the title."
+msgstr ""
+
+#: skin-options.php:39
+msgid "Login privacy"
+msgstr ""
+
+#: skin-options.php:46
+msgid "Enable login privacy"
+msgstr ""
+
+#: skin-options.php:47
+msgid ""
+"Allows the Administrator to restrict a web site to viewing only by "
+"registered users who are logged on. Any attempt, by anyone not logged, to "
+"view any Page, Post or other part of the site will display a WordPress login "
+"screen."
+msgstr ""
+
+#: skin-options.php:53
+msgid "Enable custom login page styles"
+msgstr ""
+
+#: skin-options.php:62
+#, fuzzy
+#| msgid "Background image"
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: skin-options.php:71
+#, fuzzy
+#| msgid "Custom"
+msgid "Custom Logo"
+msgstr "Cliente"
+
+#: skin-options.php:80
+#, fuzzy
+#| msgid "Custom"
+msgid "Custom Message"
+msgstr "Cliente"
+
+#: skin-options.php:91
+msgid "Logo & Site Identity"
+msgstr "El Logo y la Identidad del Sitio"
+
+#: skin-options.php:98
+#, fuzzy
+#| msgid "%s settings"
+msgid "Logo Settings"
+msgstr "Configuraci√≥n de %s"
+
+#: skin-options.php:101 skin-options.php:109 skin-options.php:200
+#: skin-options.php:211 skin-options.php:225 skin-options.php:311
+#: skin-options.php:462 skin-options.php:477 skin-options.php:524
+#: skin-options.php:1200 skin-options.php:1216 skin-options.php:1328
+#: skin-options.php:1493 skin-options.php:1503 skin-options.php:1538
+#: skin-options.php:1814 skin-options.php:2623 skin.php:769 skin.php:777
+#: skin.php:785 skin.php:793 skin.php:801 skin.php:809
+msgid "General"
+msgstr "General"
+
+#: skin-options.php:105
+msgid "Use Site Name as Logo"
+msgstr "Utilizar el Nombre del Sitio como Logo"
+
+#: skin-options.php:106
+msgid "Use the site title and tagline as a text logo if no image is selected"
+msgstr ""
+"Utilizar el t√≠tulo y el eslogan del sitio como un logo de texto si no se "
+"selecciona ninguna imagen"
+
+#: skin-options.php:114
+msgid "Logo zoom"
+msgstr "Zoom de logo"
+
+#: skin-options.php:115
+msgid ""
+"Zoom the logo (set 1 to leave original size). For this parameter to affect "
+"images, their max-height should be specified in \"em\" instead of \"px\" "
+"during header creation. In this case, maximum logo size depends on the "
+"actual size of the picture."
+msgstr ""
+
+#: skin-options.php:126
+msgid "Allow retina display logo"
+msgstr "Permitir logo de la pantalla Retina"
+
+#: skin-options.php:127
+msgid "Show fields to select logo images for Retina display"
+msgstr ""
+"Mostrar campos para seleccionar im√°genes de logo para la pantalla Retina"
+
+#: skin-options.php:136
+msgid "Logo for Retina"
+msgstr "Logo para Retina"
+
+#: skin-options.php:137 skin-options.php:154 skin-options.php:170
+msgid ""
+"Select or upload site logo used on Retina displays (if empty - use default "
+"logo from the field above)"
+msgstr ""
+"Selecciona o carga el logo del sitio utilizado en las pantallas Retina (si "
+"est√° vac√≠o, utiliza el logo predeterminado en el campo de arriba)"
+
+#: skin-options.php:147
+msgid "Logo for the mobile header"
+msgstr "Logo para el encabezado m√≥vil"
+
+#: skin-options.php:148
+msgid ""
+"Select or upload site logo to display it in the mobile header (if enabled in "
+"the section \"Header - Header mobile\""
+msgstr ""
+"Selecciona o carga el logo del sitio para visualizarlo en el encabezado del "
+"dispositivo m√≥vil (si est√° activado en la secci√≥n \"Encabezado - Encabezado "
+"m√≥vil\")"
+
+#: skin-options.php:153
+#, fuzzy
+#| msgid "Logo for the mobile header for Retina"
+msgid "Logo for the mobile header on Retina"
+msgstr "Logo para el encabezado m√≥vil para Retina"
+
+#: skin-options.php:163
+#, fuzzy
+#| msgid "Logo for the mobile header"
+msgid "Logo for the mobile menu"
+msgstr "Logo para el encabezado m√≥vil"
+
+#: skin-options.php:164
+msgid "Select or upload site logo to display it in the mobile menu"
+msgstr ""
+"Selecciona o carga el logo del sitio para visualizarlo en el men√∫ m√≥vil"
+
+#: skin-options.php:169
+#, fuzzy
+#| msgid "Logo mobile for Retina"
+msgid "Logo mobile on Retina"
+msgstr "Logo m√≥vil para Retina"
+
+#: skin-options.php:179
+#, fuzzy
+#| msgid "Logo for the mobile header"
+msgid "Logo for the side menu"
+msgstr "Logo para el encabezado m√≥vil"
+
+#: skin-options.php:180
+msgid ""
+"Select or upload site logo (with vertical orientation) to display it in the "
+"side menu"
+msgstr ""
+"Selecciona o carga el logo del sitio (con la orientaci√≥n vertical) para "
+"visualizarlo en el men√∫ lateral"
+
+#: skin-options.php:185
+#, fuzzy
+#| msgid "Logo for the mobile header for Retina"
+msgid "Logo for the side menu on Retina"
+msgstr "Logo para el encabezado m√≥vil para Retina"
+
+#: skin-options.php:186
+msgid ""
+"Select or upload site logo (with vertical orientation) to display it in the "
+"side menu on Retina displays (if empty - use default logo from the field "
+"above)"
+msgstr ""
+"Selecciona o carga el logo del sitio (con la orientaci√≥n vertical) para "
+"visualizarlo en el men√∫ lateral en las pantallas Retina (si est√° vac√≠o, "
+"utiliza el logo predeterminado en el campo de arriba)"
+
+#: skin-options.php:209
+msgid "Layout"
+msgstr "Dise√±o"
+
+#: skin-options.php:216 skin-options.php:2936
+msgid "Body style"
+msgstr "Estilo de cuerpo"
+
+#: skin-options.php:217 skin-options.php:2937
+msgid "Select width of the body content"
+msgstr "Seleccionar el ancho del contenido del corpo"
+
+#: skin-options.php:220 skin-options.php:234 skin-options.php:254
+#: skin-options.php:265 skin-options.php:308 skin-options.php:319
+#: skin-options.php:330 skin-options.php:351 skin-options.php:372
+#: skin-options.php:386 skin-options.php:400 skin-options.php:436
+#: skin-options.php:458 skin-options.php:471 skin-options.php:486
+#: skin-options.php:501 skin-options.php:516 skin-options.php:569
+#: skin-options.php:1208 skin-options.php:1225 skin-options.php:1251
+#: skin-options.php:1272 skin-options.php:1291 skin-options.php:1309
+#: skin-options.php:1325 skin-options.php:1342 skin-options.php:1366
+#: skin-options.php:1384 skin-options.php:1398 skin-options.php:1408
+#: skin-options.php:1422 skin-options.php:1619 skin-options.php:1723
+#: skin-options.php:1733 skin-options.php:1747 skin-options.php:1762
+#: skin-options.php:1777 skin-options.php:1792 skin-options.php:1811
+#: skin-options.php:1823 skin-options.php:1839 skin-options.php:1898
+#: skin-options.php:1908 skin-options.php:1928 skin-options.php:1938
+#: skin-options.php:1955 skin-options.php:1976 skin-options.php:1992
+#: skin-options.php:2009 skin-options.php:2027 skin-options.php:2041
+#: skin-options.php:2062 skin-options.php:2081 skin-plugins.php:18
+#: theme-specific/theme-hovers/theme-hovers.php:37
+msgid "Content"
+msgstr "Contenido"
+
+#: skin-options.php:250
+msgid "Page content switcher"
+msgstr ""
+
+#: skin-options.php:251 skin-options.php:2307
+#, fuzzy
+#| msgid "Widgets at the bottom of the page"
+msgid "Add button at the bottom of the page"
+msgstr "Widgets en la parte inferior de la p√°gina"
+
+#: skin-options.php:261
+msgid "Page width"
+msgstr "Ancho de p√°gina"
+
+#: skin-options.php:262
+msgid ""
+"Total width of the site content and sidebar (in pixels). If empty - use "
+"default width"
+msgstr ""
+"Ancho total del contenido del sitio y de la barra lateral (en p√≠xeles). Si "
+"est√° vac√≠o, utiliza el ancho predeterminado"
+
+#: skin-options.php:283
+msgid "Boxed page extra spaces"
+msgstr ""
+
+#: skin-options.php:284
+msgid "Width of the extra side space on boxed pages"
+msgstr ""
+
+#: skin-options.php:301 skin-options.php:2959
+msgid "Boxed bg image"
+msgstr "Imagen de fondo encajada"
+
+#: skin-options.php:302
+#, fuzzy
+#| msgid "Select or upload image, used as background in the boxed body"
+msgid "Select or upload image for the background of the boxed content."
+msgstr ""
+"Selecciona o carga la imagen utilizada como el fondo en el cuerpo encajado"
+
+#: skin-options.php:315
+#, fuzzy
+#| msgid "Big title"
+msgid "Page title"
+msgstr "Gran t√≠tulo"
+
+#: skin-options.php:316
+#, fuzzy
+#| msgid "Widgets above the content"
+msgid "Show page title over the page content"
+msgstr "Widgets por encima del contenido"
+
+#: skin-options.php:326
+#, fuzzy
+#| msgid "Page numbers"
+msgid "Page subtitle"
+msgstr "N√∫meros de p√°ginas"
+
+#: skin-options.php:327
+msgid "Show page subtitle over the page content"
+msgstr ""
+
+#: skin-options.php:341
+msgid "Navigation"
+msgstr ""
+
+#: skin-options.php:347
+#, fuzzy
+#| msgid "Menu position"
+msgid "Sidemenu position"
+msgstr "Posici√≥n del men√∫"
+
+#: skin-options.php:348
+#, fuzzy
+#| msgid "Select position of the main menu"
+msgid "Select position of the side menu - panel"
+msgstr "Selecciona una posici√≥n del men√∫ principal"
+
+#: skin-options.php:356
+#, fuzzy
+#| msgid "Main menu"
+msgid "No menu"
+msgstr "Men√∫ principal"
+
+#: skin-options.php:360
+#, fuzzy
+#| msgid "Left"
+msgid "Left menu"
+msgstr "Izquierdo"
+
+#: skin-options.php:368
+#, fuzzy
+#| msgid "Iconed sidemenu"
+msgid "Open sidemenu"
+msgstr "Men√∫ lateral con iconos"
+
+#: skin-options.php:369
+msgid ""
+"By default sidemenu will be open on desktop after page load. Page content "
+"will be shift to the right"
+msgstr ""
+
+#: skin-options.php:382
+msgid "Iconed sidemenu"
+msgstr "Men√∫ lateral con iconos"
+
+#: skin-options.php:383
+#, fuzzy
+#| msgid ""
+#| "Get icons from anchors and display it in the sidemenu or mark sidemenu "
+#| "items with simple dots"
+msgid ""
+"Get icons from anchors and display them in the sidemenu, or mark sidemenu "
+"items with simple dots"
+msgstr ""
+"Obt√©n iconos de los anclajes y visualizarlos en el men√∫ lateral o marca "
+"elementos del men√∫ lateral con puntos simples"
+
+#: skin-options.php:396
+msgid "Stretch sidemenu"
+msgstr "Extender men√∫ lateral"
+
+#: skin-options.php:397
+msgid "Stretch sidemenu to window height (if menu items number >= 5)"
+msgstr ""
+"Extiende el men√∫ lateral a la altura de la ventana (si el n√∫mero de "
+"elementos del men√∫ es >= 5)"
+
+#: skin-options.php:411
+msgid "Mobile menu fullscreen"
+msgstr "Men√∫ m√≥vil de pantalla completa"
+
+#: skin-options.php:412
+msgid ""
+"Display mobile and side menus on full screen (if checked) or slide narrow "
+"menu from the left or from the right side (if not checked)"
+msgstr ""
+"Visualiza los men√∫s m√≥viles y laterales en pantalla completa (si est√° "
+"activado) o desliza el men√∫ estrecho desde la izquierda o desde la derecha "
+"(si no est√° activado)"
+
+#: skin-options.php:418
+msgid "Search field in the Mobile menu"
+msgstr ""
+
+#: skin-options.php:419
+#, fuzzy
+#| msgid "Additional info to show at the top of the mobile header"
+msgid "Add a search field at the bottom of the Mobile menu"
+msgstr ""
+"Informaci√≥n adicional para mostrar en la parte superior del encabezado m√≥vil"
+
+#: skin-options.php:425
+msgid "Social icons in the Mobile menu"
+msgstr ""
+
+#: skin-options.php:426
+#, fuzzy
+#| msgid "Additional info to show at the top of the mobile header"
+msgid "Add social icons at the bottom of the Mobile menu"
+msgstr ""
+"Informaci√≥n adicional para mostrar en la parte superior del encabezado m√≥vil"
+
+#: skin-options.php:432
+#, fuzzy
+#| msgid "Remove margins"
+msgid "Page margins"
+msgstr "Eliminar los m√°rgenes"
+
+#: skin-options.php:433
+#, fuzzy
+#| msgid "Remove margins above and below the content area"
+msgid "Add margins above and below the content area"
+msgstr "Eliminar los m√°rgenes por encima y por debajo del √°rea de contenido"
+
+#: skin-options.php:448 skin-options.php:1484 skin-options.php:1713
+#: skin-options.php:2779
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: skin-options.php:454 skin-options.php:1489 skin-options.php:1718
+#: skin-options.php:2784 skin-options.php:3059
+msgid "Sidebar position"
+msgstr "Posici√≥n de barra lateral"
+
+#: skin-options.php:455 skin-options.php:1490 skin-options.php:2785
+msgid "Select position to show sidebar"
+msgstr "Selecciona posici√≥n para mostrar la barra lateral"
+
+#: skin-options.php:467 skin-options.php:1497 skin-options.php:1729
+#: skin-options.php:3066
+#, fuzzy
+#| msgid "Select position of the main menu"
+msgid "Sidebar position on the small screen"
+msgstr "Selecciona una posici√≥n del men√∫ principal"
+
+#: skin-options.php:468
+msgid ""
+"Select position to move sidebar (if it's not hidden) on the small screen - "
+"above or below the content"
+msgstr ""
+
+#: skin-options.php:482 skin-options.php:1086 skin-options.php:1508
+#: skin-options.php:1743 skin-options.php:2791 skin-options.php:3076
+#, fuzzy
+#| msgid "Header style"
+msgid "Sidebar style"
+msgstr "Estilo de encabezado"
+
+#: skin-options.php:483 skin-options.php:1087 skin-options.php:1509
+#: skin-options.php:1744 skin-options.php:2792 skin-options.php:3077
+#, fuzzy
+#| msgid ""
+#| "Choose whether to use the default header or header Layouts (available "
+#| "only if the ThemeREX Addons is activated)"
+msgid ""
+"Choose whether to use the default sidebar or sidebar Layouts (available only "
+"if the ThemeREX Addons is activated)"
+msgstr ""
+"Elige si desea utilizar el encabezado predeterminado o los dise√±os de "
+"encabezado (disponible s√≥lo si ThemeREX Addons est√° activado)"
+
+#: skin-options.php:497 skin-options.php:701 skin-options.php:921
+#: skin-options.php:1055 skin-options.php:1097 skin-options.php:1145
+#: skin-options.php:1446 skin-options.php:1519 skin-options.php:1675
+#: skin-options.php:1758 skin-options.php:2741 skin-options.php:2802
+#: skin-options.php:2998 skin-options.php:3087 skin-options.php:3185
+msgid "Select custom layout"
+msgstr "Selecciona un dise√±o personalizado"
+
+#: skin-options.php:498 skin-options.php:1098 skin-options.php:1520
+#: skin-options.php:1759 skin-options.php:2803 skin-options.php:3088
+#, fuzzy
+#| msgid "Select custom header from Layouts Builder"
+msgid "Select custom sidebar from Layouts Builder"
+msgstr "Selecciona un encabezado personalizado desde Layouts Builder"
+
+#: skin-options.php:512 skin-options.php:1108 skin-options.php:1530
+#: skin-options.php:1773 skin-options.php:2813 skin-options.php:3098
+msgid "Sidebar widgets"
+msgstr "Widgets de barra lateral"
+
+#: skin-options.php:513 skin-options.php:1531 skin-options.php:2814
+msgid "Select default widgets to show in the sidebar"
+msgstr "Selecciona widgets predeterminados para mostrar en la barra lateral"
+
+#: skin-options.php:528 skin-options.php:3111
+msgid "Sidebar width"
+msgstr "Ancho de barra lateral"
+
+#: skin-options.php:529 skin-options.php:3112
+#, fuzzy
+#| msgid "Width of the sidebar (in percents). If empty - use default width"
+msgid "Width of the sidebar (in pixels). If empty - use default width"
+msgstr ""
+"Ancho de la barra lateral (en porcentajes). Si est√° vac√≠o, utiliza el ancho "
+"predeterminado"
+
+#: skin-options.php:546 skin-options.php:3127
+msgid "Sidebar gap"
+msgstr "Brecha de barra lateral"
+
+#: skin-options.php:547 skin-options.php:3128
+#, fuzzy
+#| msgid ""
+#| "Gap between content and sidebar (in pepcents). If empty - use default gap"
+msgid "Gap between content and sidebar (in pixels). If empty - use default gap"
+msgstr ""
+"Brecha entre el contenido y la barra lateral (en porcentajes). Si est√° "
+"vac√≠o, utiliza la brecha predeterminada"
+
+#: skin-options.php:564 skin-options.php:1119 skin-options.php:1542
+#: skin-options.php:1788 skin-options.php:2824 skin-options.php:3145
+#, fuzzy
+#| msgid "Content"
+msgid "Content width"
+msgstr "Contenido"
+
+#: skin-options.php:565 skin-options.php:1543 skin-options.php:2825
+#: skin-options.php:3146
+#, fuzzy
+#| msgid "Expand the content width if the sidebar is hidden"
+msgid "Content width if the sidebar is hidden"
+msgstr "Ampliar el ancho del contenido si la barra lateral est√° oculta"
+
+#: skin-options.php:577 skin-options.php:1552 skin-options.php:2834
+msgid "Additional widgets"
+msgstr "Widgets adicionales"
+
+#: skin-options.php:583 skin-options.php:1558 skin-options.php:2840
+#: skin-options.php:3249
+msgid "Widgets at the top of the page"
+msgstr "Widgets en la parte superior de la p√°gina"
+
+#: skin-options.php:584 skin-options.php:1559 skin-options.php:2841
+#: skin-options.php:3250
+msgid ""
+"Select widgets to show at the top of the page (above content and sidebar)"
+msgstr ""
+"Selecciona widgets para mostrar en la parte superior de la p√°gina (arriba "
+"del contenido y de la barra lateral)"
+
+#: skin-options.php:587 skin-options.php:599 skin-options.php:611
+#: skin-options.php:623
+msgid "Widgets"
+msgstr "Widgets"
+
+#: skin-options.php:595 skin-options.php:1566 skin-options.php:2848
+#: skin-options.php:3257
+msgid "Widgets above the content"
+msgstr "Widgets por encima del contenido"
+
+#: skin-options.php:596 skin-options.php:1567 skin-options.php:2849
+#: skin-options.php:3258
+msgid "Select widgets to show at the beginning of the content area"
+msgstr "Selecciona widgets para mostrar al inicio del √°rea de contenido"
+
+#: skin-options.php:607 skin-options.php:1574 skin-options.php:2856
+#: skin-options.php:3265
+msgid "Widgets below the content"
+msgstr "Widgets debajo del contenido"
+
+#: skin-options.php:608 skin-options.php:1575 skin-options.php:2857
+#: skin-options.php:3266
+msgid "Select widgets to show at the ending of the content area"
+msgstr "Selecciona widgets para mostrar al final del √°rea de contenido"
+
+#: skin-options.php:619 skin-options.php:1582 skin-options.php:2864
+#: skin-options.php:3273
+msgid "Widgets at the bottom of the page"
+msgstr "Widgets en la parte inferior de la p√°gina"
+
+#: skin-options.php:620 skin-options.php:1583 skin-options.php:2865
+#: skin-options.php:3274
+msgid ""
+"Select widgets to show at the bottom of the page (below content and sidebar)"
+msgstr ""
+"Selecciona widgets para mostrar en la parte inferior de la p√°gina (debajo "
+"del contenido y de la barra lateral)"
+
+#: skin-options.php:632
+msgid "Design & Effects"
+msgstr "El Dise√±o y los Efectos"
+
+#: skin-options.php:637
+msgid "Border radius"
+msgstr "Radio de borde"
+
+#: skin-options.php:638
+msgid "Specify the border radius of the form fields and buttons in pixels"
+msgstr ""
+"Especifica el radio de borde de los campos de formulario y de los botones en "
+"p√≠xeles"
+
+#: skin-options.php:652
+msgid "Miscellaneous"
+msgstr "Observaciones"
+
+#: skin-options.php:658
+msgid "SEO snippets"
+msgstr "Fragmentos de SEO"
+
+#: skin-options.php:659
+msgid "Add structured data markup to the single posts and pages"
+msgstr ""
+"A√±adir el marcado de los datos estructurados a las publicaciones y p√°ginas "
+"individuales"
+
+#: skin-options.php:665
+msgid "Text with Privacy Policy link"
+msgstr ""
+
+#: skin-options.php:666
+msgid "Specify text with Privacy Policy link for the checkbox 'I agree ...'"
+msgstr ""
+
+#: skin-options.php:667
+msgid "I agree that my submitted data is being collected and stored."
+msgstr ""
+
+#: skin-options.php:676 skin-options.php:693 skin-options.php:705
+#: skin-options.php:720 skin-options.php:732 skin-options.php:743
+#: skin-options.php:772 skin-options.php:784 skin-options.php:805
+#: skin-options.php:1433 skin-options.php:1662 skin-options.php:2605
+#: skin-options.php:2728
+msgid "Header"
+msgstr "Encabezado"
+
+#: skin-options.php:684 skin-options.php:689 skin-options.php:1047
+#: skin-options.php:1438 skin-options.php:1667 skin-options.php:2733
+#: skin-options.php:2990
+msgid "Header style"
+msgstr "Estilo de encabezado"
+
+#: skin-options.php:690 skin-options.php:1439 skin-options.php:1668
+#: skin-options.php:2734 skin-options.php:2991
+msgid ""
+"Choose whether to use the default header or header Layouts (available only "
+"if the ThemeREX Addons is activated)"
+msgstr ""
+"Elige si desea utilizar el encabezado predeterminado o los dise√±os de "
+"encabezado (disponible s√≥lo si ThemeREX Addons est√° activado)"
+
+#: skin-options.php:702 skin-options.php:1056 skin-options.php:1447
+#: skin-options.php:1676 skin-options.php:2742
+msgid "Select custom header from Layouts Builder"
+msgstr "Selecciona un encabezado personalizado desde Layouts Builder"
+
+#: skin-options.php:716 skin-options.php:1065 skin-options.php:1456
+#: skin-options.php:1685 skin-options.php:2751 skin-options.php:3010
+msgid "Header position"
+msgstr "Posici√≥n de encabezado"
+
+#: skin-options.php:717
+#, fuzzy
+#| msgid "Header position"
+msgid "Select site header position"
+msgstr "Posici√≥n de encabezado"
+
+#: skin-options.php:728 skin-options.php:1464 skin-options.php:1693
+#: skin-options.php:2759
+msgid "Header fullheight"
+msgstr "Altura total de encabezado"
+
+#: skin-options.php:729 skin-options.php:1465 skin-options.php:1694
+#: skin-options.php:2760
+#, fuzzy
+#| msgid ""
+#| "Enlarge header area to fill whole screen. Used only if header have a "
+#| "background image"
+msgid ""
+"Stretch header area to fill the entire screen. Used only if the header has a "
+"background image"
+msgstr ""
+"Amplia el √°rea de encabezado para llenar toda la pantalla. Se utiliza s√≥lo "
+"si el encabezado tiene una imagen de fondo"
+
+#: skin-options.php:739 skin-options.php:1472 skin-options.php:1701
+#: skin-options.php:2767
+msgid "Header fullwidth"
+msgstr "Ancho total de encabezado"
+
+#: skin-options.php:740 skin-options.php:1473 skin-options.php:1702
+#: skin-options.php:2768
+msgid ""
+"Do you want to stretch the header widgets area to the entire window width?"
+msgstr ""
+"¬øQuieres extender el √°rea de widgets de encabezado a todo el ancho de la "
+"ventana?"
+
+#: skin-options.php:750
+#, fuzzy
+#| msgid "Header zoom"
+msgid "Header title zoom"
+msgstr "Zoom de encabezado"
+
+#: skin-options.php:751
+msgid "Zoom the header title. 1 - original size"
+msgstr "Zoom del t√≠tulo del encabezado. 1 - tama√±o original"
+
+#: skin-options.php:763 skin-options.php:768 skin-options.php:3028
+msgid "Header widgets"
+msgstr "Widgets de encabezado"
+
+#: skin-options.php:764
+msgid "Here you can place a widget slider, advertising banners, etc."
+msgstr ""
+"Aqu√≠ se puede situar un deslizador de widgets, banners publicitarios, etc."
+
+#: skin-options.php:769
+msgid "Select set of widgets to show in the header on each page"
+msgstr ""
+"Selecciona un conjunto de widgets para mostrar en el encabezado de cada "
+"p√°gina"
+
+#: skin-options.php:773
+msgid "Select set of widgets to show in the header on this page"
+msgstr ""
+"Selecciona un conjunto de widgets para mostrar en el encabezado de esta "
+"p√°gina"
+
+#: skin-options.php:780
+msgid "Header columns"
+msgstr "Columnas de encabezado"
+
+#: skin-options.php:781
+msgid ""
+"Select number columns to show widgets in the Header. If 0 - autodetect by "
+"the widgets count"
+msgstr ""
+"Selecciona el n√∫mero de columnas para mostrar widgets en el encabezado. Si "
+"0, se detecta autom√°ticamente por el conteo de widgets"
+
+#: skin-options.php:795
+msgid "Header image"
+msgstr "Imagen de encabezado"
+
+#: skin-options.php:801 skin-options.php:3019
+msgid "Header image override"
+msgstr "Anular imagen de encabezado"
+
+#: skin-options.php:802
+#, fuzzy
+#| msgid ""
+#| "Allow override the header image with the page's/post's/product's/etc. "
+#| "featured image"
+msgid ""
+"Allow overriding the header image with a featured image of the page, post, "
+"product, etc."
+msgstr ""
+"Permitir anular la imagen del encabezado con la imagen destacada de una "
+"p√°gina/una publicaci√≥n/un producto/etc."
+
+#: skin-options.php:813
+msgid "Mobile header"
+msgstr "Encabezado m√≥vil"
+
+#: skin-options.php:814
+msgid "Configure the mobile version of the header"
+msgstr "Configura la versi√≥n m√≥vil del encabezado"
+
+#: skin-options.php:823
+msgid "Enable the mobile header"
+msgstr "Activa el encabezado m√≥vil"
+
+#: skin-options.php:824
+msgid ""
+"Use the mobile version of the header (if checked) or relayout the current "
+"header on mobile devices"
+msgstr ""
+"Utiliza la versi√≥n m√≥vil del encabezado (si est√° activada) o redise√±a el "
+"encabezado actual en dispositivos m√≥viles"
+
+#: skin-options.php:833
+msgid "Additional info"
+msgstr "Informaci√≥n adicional"
+
+#: skin-options.php:834
+msgid "Additional info to show at the top of the mobile header"
+msgstr ""
+"Informaci√≥n adicional para mostrar en la parte superior del encabezado m√≥vil"
+
+#: skin-options.php:847
+msgid "Hide additional info"
+msgstr "Ocultar informaci√≥n adicional"
+
+#: skin-options.php:857
+msgid "Hide logo"
+msgstr "Ocultar logo"
+
+#: skin-options.php:867
+msgid "Hide login/logout"
+msgstr "Ocultar logo/cerrar sesi√≥n"
+
+#: skin-options.php:877
+msgid "Hide search"
+msgstr "Ocultar b√∫squeda"
+
+#: skin-options.php:887
+msgid "Hide cart"
+msgstr "Ocultar carrito"
+
+#: skin-options.php:902 skin-options.php:913 skin-options.php:925
+#: skin-options.php:939 skin-options.php:953 skin-options.php:968
+msgid "Footer"
+msgstr "Pie de p√°gina"
+
+#: skin-options.php:909 skin-options.php:1137 skin-options.php:3177
+msgid "Footer style"
+msgstr "Estilo de pie de p√°gina"
+
+#: skin-options.php:910 skin-options.php:3178
+msgid ""
+"Choose whether to use the default footer or footer Layouts (available only "
+"if the ThemeREX Addons is activated)"
+msgstr ""
+"Elige si desea utilizar el pie de p√°gina predeterminado o los dise√±os de pie "
+"de p√°gina (disponible s√≥lo si ThemeREX Addons est√° activado)"
+
+#: skin-options.php:922 skin-options.php:1146
+msgid "Select custom footer from Layouts Builder"
+msgstr "Selecciona un pie de p√°gina personalizado desde Layouts Builder"
+
+#: skin-options.php:935 skin-options.php:1155 skin-options.php:3196
+msgid "Footer widgets"
+msgstr "Widgets de pie de p√°gina"
+
+#: skin-options.php:936 skin-options.php:1156 skin-options.php:3197
+msgid "Select set of widgets to show in the footer"
+msgstr "Selecciona un conjunto de widgets para mostrar en el pie de p√°gina"
+
+#: skin-options.php:949 skin-options.php:1165 skin-options.php:3206
+msgid "Footer columns"
+msgstr "Columnas de pie de p√°gina"
+
+#: skin-options.php:950 skin-options.php:1166 skin-options.php:3207
+msgid ""
+"Select number columns to show widgets in the footer. If 0 - autodetect by "
+"the widgets count"
+msgstr ""
+"Selecciona el n√∫mero de columnas para mostrar widgets en el pie de p√°gina. "
+"Si 0, se detecta autom√°ticamente por el conteo de widgets"
+
+#: skin-options.php:964 skin-options.php:3217
+msgid "Footer fullwidth"
+msgstr "Ancho total de pie de p√°gina"
+
+#: skin-options.php:965 skin-options.php:3218
+msgid "Do you want to stretch the footer to the entire window width?"
+msgstr ""
+"¬øQuieres extender el √°rea de widgets de pie de p√°gina a todo el ancho de la "
+"ventana?"
+
+#: skin-options.php:977
+msgid "Show logo"
+msgstr "Mostrar logo"
+
+#: skin-options.php:978
+msgid "Show logo in the footer"
+msgstr "Mostrar logo en el pie de p√°gina"
+
+#: skin-options.php:987
+msgid "Logo for footer"
+msgstr "Logo para el pie de p√°gina"
+
+#: skin-options.php:988
+msgid "Select or upload site logo to display it in the footer"
+msgstr ""
+"Selecciona o carga el logo del sitio para visualizarlo en el pie de p√°gina"
+
+#: skin-options.php:997
+msgid "Logo for footer (Retina)"
+msgstr "Logo para el pie de p√°gina (Retina)"
+
+#: skin-options.php:998
+msgid ""
+"Select or upload logo for the footer area used on Retina displays (if empty "
+"- use default logo from the field above)"
+msgstr ""
+"Selecciona o carga el logo para el pie de p√°gina utilizado en las pantallas "
+"Retina (si est√° vac√≠o, utiliza el logo predeterminado en el campo de arriba)"
+
+#: skin-options.php:1009
+msgid "Show social icons"
+msgstr "Mostrar iconos sociales"
+
+#: skin-options.php:1010
+msgid "Show social icons in the footer (under logo or footer widgets)"
+msgstr ""
+"Mostrar iconos sociales en el pie de p√°gina (debajo de widgets de logo o pie "
+"de p√°gina)"
+
+#: skin-options.php:1018
+msgid "Copyright"
+msgstr "Copyright"
+
+#: skin-options.php:1019
+msgid ""
+"Copyright text in the footer. Use {Y} to insert current year and press "
+"\"Enter\" to create a new line"
+msgstr ""
+"Texto de copyright en el pie de p√°gina. Usa {Y} para insertar el a√±o actual "
+"y pulsa \"Enter\" para crear una nueva l√≠nea"
+
+#: skin-options.php:1021
+#, fuzzy
+#| msgid "Copyright &copy; {Y} by ThemeREX. All rights reserved."
+msgid "Copyright &copy; {Y} by AncoraThemes. All rights reserved."
+msgstr "Copyright &copy; {Y} de ThemeREX. Todos los derechos reservados."
+
+#: skin-options.php:1034
+#, fuzzy
+#| msgid "Mobile Menu"
+msgid "Mobile"
+msgstr "Men√∫ m√≥vil"
+
+#: skin-options.php:1042
+#, fuzzy
+#| msgid "Headers and Footers builder"
+msgid "Header on the mobile device"
+msgstr "Generador de encabezados y pies de pagina"
+
+#: skin-options.php:1048
+#, fuzzy
+#| msgid ""
+#| "Choose whether to use the default header or header Layouts (available "
+#| "only if the ThemeREX Addons is activated)"
+msgid ""
+"Choose the header to be used on mobile devices: the default header or header "
+"Layouts (available only if the ThemeREX Addons is activated)"
+msgstr ""
+"Elige si desea utilizar el encabezado predeterminado o los dise√±os de "
+"encabezado (disponible s√≥lo si ThemeREX Addons est√° activado)"
+
+#: skin-options.php:1066 skin-options.php:1457 skin-options.php:1686
+#: skin-options.php:2752
+msgid "Select position to display the site header"
+msgstr "Selecciona una posici√≥n para visualizar el encabezado del sitio"
+
+#: skin-options.php:1074
+#, fuzzy
+#| msgid "Hide sidebar on the single page"
+msgid "Sidebar on the mobile device"
+msgstr "Ocultar barra lateral en la publicaci√≥n individual"
+
+#: skin-options.php:1079
+#, fuzzy
+#| msgid "Sidebar position"
+msgid "Sidebar position on mobile"
+msgstr "Posici√≥n de barra lateral"
+
+#: skin-options.php:1080
+#, fuzzy
+#| msgid "Select sidebar to show on the %s pages"
+msgid "Select sidebar position on mobile devices"
+msgstr "Selecciona una barra lateral para mostrar en las %s p√°ginas"
+
+#: skin-options.php:1109
+#, fuzzy
+#| msgid "Select default widgets to show in the sidebar"
+msgid "Select default widgets to show in the sidebar on mobile devices"
+msgstr "Selecciona widgets predeterminados para mostrar en la barra lateral"
+
+#: skin-options.php:1120
+#, fuzzy
+#| msgid "Expand the content width if the sidebar is hidden"
+msgid "Content width if the sidebar is hidden on mobile devices"
+msgstr "Ampliar el ancho del contenido si la barra lateral est√° oculta"
+
+#: skin-options.php:1132
+#, fuzzy
+#| msgid "Logo for the mobile header"
+msgid "Footer on the mobile device"
+msgstr "Logo para el encabezado m√≥vil"
+
+#: skin-options.php:1138
+#, fuzzy
+#| msgid ""
+#| "Choose whether to use the default footer or footer Layouts (available "
+#| "only if the ThemeREX Addons is activated)"
+msgid ""
+"Choose whether to use on mobile devices: the default footer or footer "
+"Layouts (available only if the ThemeREX Addons is activated)"
+msgstr ""
+"Elige si desea utilizar el pie de p√°gina predeterminado o los dise√±os de pie "
+"de p√°gina (disponible s√≥lo si ThemeREX Addons est√° activado)"
+
+#: skin-options.php:1181
+msgid "Blog"
+msgstr "Blog"
+
+#: skin-options.php:1182
+msgid "Options of the the blog archive"
+msgstr "Opciones del archivo de blog"
+
+#: skin-options.php:1192
+msgid "Posts page"
+msgstr "P√°gina de publicaciones"
+
+#: skin-options.php:1193
+msgid "Style and components of the blog archive"
+msgstr "Estilo y componentes del archivo de blog"
+
+#: skin-options.php:1198
+#, fuzzy
+#| msgid "Posts page"
+msgid "Posts page settings"
+msgstr "P√°gina de publicaciones"
+
+#: skin-options.php:1199
+msgid ""
+"Customize the blog archive: post layout, header and footer style, sidebar "
+"position, etc."
+msgstr ""
+
+#: skin-options.php:1204 skin-options.php:2656
+msgid "Blog style"
+msgstr "Estilo de blog"
+
+#: skin-options.php:1221 skin-options.php:2663
+#, fuzzy
+#| msgid "Latest posts"
+msgid "Large first post"
+msgstr "√öltimas publicaciones"
+
+#: skin-options.php:1222 skin-options.php:2664
+msgid "Make your first post stand out by making it bigger"
+msgstr "Haz que tu publicaci√≥n se destaque haci√©ndolo m√°s grande"
+
+#: skin-options.php:1237 skin-options.php:2673
+msgid "Posts content"
+msgstr "Contenido de publicaciones"
+
+#: skin-options.php:1238 skin-options.php:2674
+msgid "Display either post excerpts or the full post content"
+msgstr ""
+"Visualiza extractos de publicaciones o el contenido completo de la "
+"publicaci√≥n"
+
+#: skin-options.php:1247 skin-options.php:2683
+msgid "Excerpt length"
+msgstr "Longitud de extracto"
+
+#: skin-options.php:1248 skin-options.php:2684
+msgid ""
+"Length (in words) to generate excerpt from the post content. Attention! If "
+"the post excerpt is explicitly specified - it appears unchanged"
+msgstr ""
+"Longitud (en palabras) para generar un extracto del contenido de una "
+"publicaci√≥n. ¬°Atenci√≥n! Si el extracto de la publicaci√≥n se especifica "
+"expl√≠citamente, aparece sin cambios"
+
+#: skin-options.php:1261
+msgid "Blog columns"
+msgstr "Columnas de blog"
+
+#: skin-options.php:1262
+msgid "How many columns should be used in the blog archive (from 2 to 4)?"
+msgstr "¬øCu√°ntas columnas se deben usar en el archivo de blog (de 2 a 4)?"
+
+#: skin-options.php:1268
+msgid "Post type"
+msgstr "Tipo de publicaci√≥n"
+
+#: skin-options.php:1269
+msgid "Select post type to show in the blog archive"
+msgstr "Selecciona el tipo de publicaci√≥n para mostrar en el archivo de blog"
+
+#: skin-options.php:1287
+msgid "Category to show"
+msgstr "Categor√≠a para mostrar"
+
+#: skin-options.php:1288
+msgid "Select category to show in the blog archive"
+msgstr "Selecciona una categor√≠a para mostrar en el archivo de blog"
+
+#: skin-options.php:1305
+msgid "Posts per page"
+msgstr "Publicaciones por p√°gina"
+
+#: skin-options.php:1306
+msgid "How many posts will be displayed on this page"
+msgstr "Cuantas publicaciones se mostrar√°n en esta p√°gina"
+
+#: skin-options.php:1321 skin-options.php:2705
+msgid "Pagination style"
+msgstr "Estilo de paginaci√≥n"
+
+#: skin-options.php:1322 skin-options.php:2706
+msgid "Show Older/Newest posts or Page numbers below the posts list"
+msgstr ""
+"Mostrar publicaciones anteriores/m√°s recientes o n√∫meros de p√°ginas debajo "
+"de la lista de publicaciones"
+
+#: skin-options.php:1338 skin-options.php:2712
+#, fuzzy
+#| msgid "Post author"
+msgid "Post animation"
+msgstr "Autor de publicaci√≥n"
+
+#: skin-options.php:1339 skin-options.php:2713
+#, fuzzy
+#| msgid ""
+#| "Select animation to show posts in the blog. Attention! Do not use any "
+#| "animation on pages with the \"wheel to the anchor\" behaviour (like a "
+#| "\"Chess 2 columns\")!"
+msgid ""
+"Select post animation for the archive page. Attention! Do not use any "
+"animation on pages with the 'wheel to the anchor' behaviour!"
+msgstr ""
+"Selecciona una animaci√≥n para mostrar las publicaciones en el blog. "
+"¬°Atenci√≥n! ¬°No utilices animaciones en las p√°ginas con \"la rueda al anclaje"
+"\" (como \"Ajedrez 2 columnas\")!"
+
+#: skin-options.php:1355
+msgid "Disable animation on mobile"
+msgstr ""
+
+#: skin-options.php:1356
+msgid "Disable any posts animation on mobile devices"
+msgstr ""
+
+#: skin-options.php:1362
+msgid "Show filters"
+msgstr "Mostrar filtros"
+
+#: skin-options.php:1363
+msgid "Show categories as tabs to filter posts"
+msgstr "Mostrar categor√≠as como pesta√±as para filtrar publicaciones"
+
+#: skin-options.php:1379
+#, fuzzy
+#| msgid "Options of the the blog archive"
+msgid "Open video in the popup on a blog archive"
+msgstr "Opciones del archivo de blog"
+
+#: skin-options.php:1380
+msgid ""
+"Open the video from posts in the popup (if plugin \"ThemeREX Addons\" is "
+"installed) or play the video instead the cover image"
+msgstr ""
+
+#: skin-options.php:1394 skin-options.php:2720
+#, fuzzy
+#| msgid "View all posts in %s"
+msgid "Open full post in blog"
+msgstr "Ver todas las publicaciones en %s"
+
+#: skin-options.php:1395
+msgid ""
+"Allow to open the full version of the post directly in the blog feed. "
+"Attention! Applies only to 1 column layouts!"
+msgstr ""
+
+#: skin-options.php:1404 skin-options.php:2154
+#, fuzzy
+#| msgid "Show author info"
+msgid "Hide author bio"
+msgstr "Mostrar informaci√≥n del autor"
+
+#: skin-options.php:1405
+msgid ""
+"Hide author bio after post content when open the full version of the post "
+"directly in the blog feed."
+msgstr ""
+
+#: skin-options.php:1418 skin-options.php:2164
+#, fuzzy
+#| msgid "Show related posts"
+msgid "Hide related posts"
+msgstr "Mostrar publicaciones relacionadas"
+
+#: skin-options.php:1419
+msgid ""
+"Hide related posts after post content when open the full version of the post "
+"directly in the blog feed."
+msgstr ""
+
+#: skin-options.php:1498
+#, fuzzy
+#| msgid "Select position to show sidebar on the %s pages"
+msgid ""
+"Select position to move sidebar on the small screen - above or below the "
+"content"
+msgstr ""
+"Selecciona una posici√≥n para mostrar la barra lateral en las %s p√°ginas"
+
+#: skin-options.php:1591
+msgid "Advanced settings"
+msgstr "Configuraci√≥n avanzada"
+
+#: skin-options.php:1596
+msgid "Image placeholder"
+msgstr "Marcador de posici√≥n de imagen"
+
+#: skin-options.php:1597
+msgid ""
+"Select or upload a placeholder image for posts without a featured image. "
+"Placeholder is used exclusively on the blog stream page (and not on single "
+"post pages), and only in those styles, where omitting a featured image would "
+"be inappropriate."
+msgstr ""
+
+#: skin-options.php:1602
+msgid "Sticky posts style"
+msgstr "Estilo de publicaciones adhesivas"
+
+#: skin-options.php:1603
+msgid "Select style of the sticky posts output"
+msgstr "Selecciona el estilo de las publicaciones adhesivas"
+
+#: skin-options.php:1606
+msgid "Decorated posts"
+msgstr "Publicaciones decoradas"
+
+#: skin-options.php:1607
+msgid "Mini-cards"
+msgstr "Mini tarjetas"
+
+#: skin-options.php:1613 skin-options.php:1852 skin-options.php:2693
+#: skin-setup.php:306
+msgid "Post meta"
+msgstr "Post meta"
+
+#: skin-options.php:1614
+msgid ""
+"If your blog page is created using the 'Blog archive' page template, set up "
+"the 'Post Meta' settings in the 'Theme Options' section of that page. Post "
+"counters and Share Links are available only if plugin ThemeREX Addons is "
+"active"
+msgstr ""
+"Si tu p√°gina de blog se crea utilizando la plantilla de p√°gina 'Archivo de "
+"blog', ajusta las configuraciones de 'Post Meta' en la secci√≥n 'Opciones de "
+"tema' de esta p√°gina. Contadores de publicaciones y Share Links est√°n "
+"disponibles s√≥lo si el plugin ThemeREX Addons est√° activado"
+
+#: skin-options.php:1616 skin-options.php:1855 skin-options.php:2696
+msgid "<b>Tip:</b> Drag items to change their order."
+msgstr "<b>Tip:</b> Arrastra los elementos para cambiar su orden."
+
+#: skin-options.php:1634
+#, fuzzy
+#| msgid "Easy Readable Date Format"
+msgid "Easy readable date format"
+msgstr "Formato de Fecha de F√°cil Lectura"
+
+#: skin-options.php:1635
+msgid ""
+"For how many days to show the easy-readable date format (e.g. '3 days ago') "
+"instead of the standard publication date"
+msgstr ""
+"Cu√°ntos d√≠as mostrar el formato de fecha de f√°cil lectura (por ejemplo, "
+"'hace 3 d√≠as') en lugar de la fecha de publicaci√≥n est√°ndar"
+
+#: skin-options.php:1640
+msgid "Use \"Blog Archive\" page settings on the post list"
+msgstr ""
+
+#: skin-options.php:1641
+msgid ""
+"Apply options and content of pages created with the template \"Blog Archive"
+"\" for some type of posts and / or taxonomy when viewing feeds of posts of "
+"this type and taxonomy."
+msgstr ""
+
+#: skin-options.php:1650 skin-options.php:1657
+msgid "Single posts"
+msgstr "Publicaciones individuales"
+
+#: skin-options.php:1651
+msgid "Settings of the single post"
+msgstr "Configuraci√≥n de la publicaci√≥n individual"
+
+#: skin-options.php:1658
+msgid ""
+"Customize the single post: content  layout, header and footer styles, "
+"sidebar position, meta elements, etc."
+msgstr ""
+
+#: skin-options.php:1719
+#, fuzzy
+#| msgid "Select position to show sidebar on the %s pages"
+msgid "Select position to show sidebar on the single posts"
+msgstr ""
+"Selecciona una posici√≥n para mostrar la barra lateral en las %s p√°ginas"
+
+#: skin-options.php:1730
+msgid ""
+"Select position to move sidebar on the single posts on the small screen - "
+"above or below the content"
+msgstr ""
+
+#: skin-options.php:1774
+#, fuzzy
+#| msgid "Select default widgets to show in the sidebar"
+msgid "Select default widgets to show in the sidebar on the single posts"
+msgstr "Selecciona widgets predeterminados para mostrar en la barra lateral"
+
+#: skin-options.php:1789
+msgid ""
+"Content width on the single posts if the sidebar is hidden. Attention! "
+"\"Narrow\" width is only available for posts. For all other post types "
+"(Team, Services, etc.), it is equivalent to \"Normal\""
+msgstr ""
+
+#: skin-options.php:1802
+#, fuzzy
+#| msgid "Hide featured image on the single post"
+msgid "Featured image and title"
+msgstr "Ocultar la imagen destacada en una publicaci√≥n individual"
+
+#: skin-options.php:1807
+#, fuzzy
+#| msgid "Single posts"
+msgid "Single style"
+msgstr "Publicaciones individuales"
+
+#: skin-options.php:1819
+msgid "Parallax speed"
+msgstr ""
+
+#: skin-options.php:1820
+msgid ""
+"Speed for shifting the image while scrolling the page. If 0, the effect is "
+"not applied."
+msgstr ""
+
+#: skin-options.php:1835
+#, fuzzy
+#| msgid "Post type"
+msgid "Post subtitle"
+msgstr "Tipo de publicaci√≥n"
+
+#: skin-options.php:1836
+#, fuzzy
+#| msgid "Select or upload site logo to display it in the footer"
+msgid "Specify post subtitle to display it under the post title."
+msgstr ""
+"Selecciona o carga el logo del sitio para visualizarlo en el pie de p√°gina"
+
+#: skin-options.php:1846
+msgid "Show post meta"
+msgstr "Mostrar post meta"
+
+#: skin-options.php:1847
+msgid "Display block with post's meta: date, categories, counters, etc."
+msgstr ""
+"Visualizar el bloque con post meta: datos, categor√≠as, contadores, etc."
+
+#: skin-options.php:1853
+msgid ""
+"Meta parts for single posts. Post counters and Share Links are available "
+"only if plugin ThemeREX Addons is active"
+msgstr ""
+"Partes de Meta para publicaciones individuales. Likes y Vistas est√°n "
+"disponibles s√≥lo si el plugin ThemeREX Addons est√° activado"
+
+#: skin-options.php:1867
+#, fuzzy
+#| msgid "Share links"
+msgid "Share links position"
+msgstr "Compartir enlaces"
+
+#: skin-options.php:1868
+#, fuzzy
+#| msgid ""
+#|    (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        êé“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  œo/å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  o/å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ö§0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ~“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ‰§0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ~“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  •0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ~“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  -•0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ~“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  U•0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  u•0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ´0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  A´0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  ç´0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  ∫´0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  Ê´0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  ˇ´0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  %¨0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  b¨0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  Ç¨0å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ¿o2å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pí“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ˙o2å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pí“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  Up2å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pí“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  åp2å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ∑p2å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pí“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  ‘p2å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ˚p2å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pí“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  @q2å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  aq2å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ‹>5å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `í“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ?5å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `í“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  Å?5å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `í“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t   ?5å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ˆ?5å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `í“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  @5å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  3@5å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pí“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  N@5å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  s@5å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pí“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  A5å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  >A5å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ‰[6å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿ê“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  9\6å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿ê“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  Z\6å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿ê“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  Ñ\6å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿ê“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  ∫\6å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  ⁄\6å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  N^6å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿ê“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  í^6å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿ê“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  Ø^6å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿ê“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ⁄^6å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿ê“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  _6å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  (_6å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  —[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  h—[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  à—[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ≥—[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  ·—[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  “[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ”[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  >”[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  ã”[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  ∂”[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  „”[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  ˛”[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  4‘[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  e‘[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  å‘[å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ˙\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  <\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  X\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  Å\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  ü\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  ø\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ÚA\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        êí“Î   @         @   ˇˇˇˇˇˇˇπ ¿    ‘  t  B\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        êí“Î   @         @   ˇˇˇˇˇˇˇπ ¿    ‘  t  âB\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        êí“Î   @         @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ÁB\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        êí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  C\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        êí“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  -C\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        †í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  UC\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        †í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  lC\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ∞í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ìC\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ∞í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  ™C\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  –C\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  ÍC\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  D\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t   E\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  EE\å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  &É]å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –í“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  SÉ]å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –í“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  ™É]å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –í“Î            @   ˇˇˇˇˇˇˇ   à⁄  à⁄     åïàå^n⁄ƒ                     à⁄  !   8–÷U¬ˇˇ WVT¬ˇˇπ ¿    x  t  ÓÉ]å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –í“Î         @  @    gÂm:®#Lπ ¿    x  t  Ñ]å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –í“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  9Ñ]å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –í“Î         @  @          π ¿    x  t  `Ñ]å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –í“Î            @@    5 1 7 π ¿    x  t  ≥Ñ]å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @        e s s π ¿    x  t  ”Ñ]å^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @    3 9 8 π ¿    ‘  t  ª¥_å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ~“Î         @  @     \ s h π ¿    ‘  t  µ_å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ~“Î            @@   ÿMç”Dπ ¿    ‘  t  0µ_å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ~“Î         @  @    ÿMç”Dπ ¿    ‘  t  Xµ_å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ~“Î            @@   ÿMç”Dπ ¿    ‘  t  }µ_å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ÿMç”Dπ ¿    ‘  t  ùµ_å^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ÿMç”Dπ ¿    ‘  t  	bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î         @  @    ÿMç”Dπ ¿    ‘  t  ]bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @@   ÿMç”Dπ ¿    ‘  t  ~bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î         @  @    ÿMç”Dπ ¿    ‘  t  ®bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @@   ÿMç”Dπ ¿    ‘  t  ÷bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ÿMç”Dπ ¿    ‘  t  ˜bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ÿMç”Dπ ¿    ‘  t  ‚bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î            @   ÿMç”Dπ ¿    ‘  t  bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  Sbå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ≠bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  Ÿbå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  Ûbå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  Wbå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  xbå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  √2bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         ä“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ‰2bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         ä“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  <3bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         ä“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  â3bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         ä“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ∑3bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         ä“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  –3bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ä“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ˜3bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ä“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  4bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ä“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  :4bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ä“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  Ú4bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  5bå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  "Hbå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pä“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  AHbå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pä“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ïHbå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pä“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  —Hbå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pä“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ˝Hbå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pä“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  Ibå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Ää“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ;Ibå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Ää“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  TIbå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Ää“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  zIbå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Ää“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  ¸Ibå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  !Jbå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  Ñ´cå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ◊´cå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  ¸´cå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  1¨cå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  y¨cå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  õ¨cå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  8deå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –â“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  rdeå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –â“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  “deå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –â“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  eeå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –â“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  Aeeå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –â“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  beeå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –â“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  äeeå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –â“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  €eeå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  ˇeeå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ∂ïeå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –â“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ˙ïeå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –â“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  ñeå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –â“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  Dñeå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –â“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  Ññeå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  ßñeå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ﬁ£eå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  §eå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  :§eå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  b§eå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  Ç§eå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  §§eå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ß∑få^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t   ∏få^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  $∏få^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  N∏få^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  ç∏få^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  ±∏få^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  U;gå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ∑;gå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  ⁄;gå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  <gå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  B<gå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  g<gå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ^Bgå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ±Bgå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  ›Bgå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  Cgå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  DCgå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  pCgå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ΩWgå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ¸Wgå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  Xgå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  BXgå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  aXgå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  ÑXgå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  L%hå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ß%hå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t   %hå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ˆ%hå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  /&hå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  R&hå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  fhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  hfhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  àfhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ≤fhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿â“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  @hhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        †ä“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  chhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        †ä“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  ºhhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        †ä“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  ˛hhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        †ä“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  0ihå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        †ä“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  Jihå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        †ä“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  tihå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        †ä“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  øihå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  „ihå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ïjhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  Œjhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ™hå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  `™hå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  Ü™hå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ∏™hå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  Ì™hå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  ´hå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ˛Íhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ∞ä“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  1Îhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ∞ä“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  âÎhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ∞ä“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  …Îhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ∞ä“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ˆÎhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ∞ä“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  Ïhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ∞ä“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  <Ïhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ∞ä“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  ßÏhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  ÀÏhå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ìíiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  Ëíiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  
+ìiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  5ìiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @í“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  yìiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  üìiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  πìiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t   îiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  îiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  Gîiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  gîiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  óîiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ¬òiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ˛òiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  ôiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  Bôiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äí“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  `ôiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  Åôiå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ˜®iå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        †ä“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  8©iå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        †ä“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  W©iå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        †ä“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ©iå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        †ä“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  œ©iå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  ©iå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  USjå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿ä“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  àSjå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿ä“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ıSjå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿ä“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ;Tjå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿ä“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  jTjå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿ä“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  ÅTjå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –ä“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ©Tjå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –ä“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  ≈Tjå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –ä“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ÎTjå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        –ä“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  ÖUjå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  ©Ujå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  Ùoå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  NÙoå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ´Ùoå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @i“Î                 ˇˇˇˇˇˇˇπ ¿    ‘  t  ˆoå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  Eˆoå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ïˆoå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        p{“Î   0             ˇˇˇˇˇˇˇπ ¿    x  t  |	på^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  †	på^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ﬂ	på^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         ä“Î                 ˇˇˇˇˇˇˇπ ¿    ‘  t  \på^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  ápå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ’på^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        P[“Î   0             ˇˇˇˇˇˇˇπ ¿    x  t  √på^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  på^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  0på^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ¿{“Î   `             ˇˇˇˇˇˇˇπ ¿    ‘  t  Ÿ"på^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  ˛"på^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  B#på^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         é“Î   @             ˇˇˇˇˇˇˇπ ¿    x  t  (på^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  4(på^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  Å(på^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pq“Î   @             ˇˇˇˇˇˇˇπ ¿    x  t  ù0tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pq“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  ‚0tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pq“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  ≠1tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pq“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  2tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pq“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ;2tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pq“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  \2tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pq“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  Ö2tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pq“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  3tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `q“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  /3tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `q“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  î3tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `q“Î            @   ˇˇˇˇˇˇˇπ ¿    ‘  t  €3tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `q“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  4tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `q“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  )4tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `q“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  U4tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `q“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  î4tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  π4tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  }5tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  ©5tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ˛˝tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pq“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  =˛tå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pq“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t   ˇtå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pq“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  Eˇtå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pq“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  tˇtå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pq“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  ïˇtå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pq“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  øˇtå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        pq“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  * uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  P uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  guå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         é“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  Öuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         é“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ˛uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         é“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  @	uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         é“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  q	uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         é“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  ä	uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        é“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  µ	uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        é“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  –	uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        é“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ˘	uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        é“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  Ñ
+uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  ´
+uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  6&uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äq“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  T&uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äq“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  ∑&uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äq“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  'uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äq“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  Y'uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äq“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  x'uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äq“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  §'uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Äq“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  (uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  +(uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  S.uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pq“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ë.uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pq“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  ≥.uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pq“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ‹.uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Pq“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  /uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  ?/uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ¨=uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `q“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  >uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `q“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  H>uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `q“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  û>uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        `q“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  ?uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  H?uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  §duå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         é“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  Áduå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         é“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  éeuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         é“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  ‰euå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         é“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  /fuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         é“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  Yfuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         é“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  •fuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x         é“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  Gguå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  äguå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  1}uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        0é“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  m}uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        0é“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  6~uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        0é“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  é~uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        0é“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  ÿ~uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        0é“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        0é“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  Euå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        0é“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  ¢uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  ⁄uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    x  t  ∏îuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        P[“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  €îuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        P[“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  pïuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        P[“Î            @   ˇˇˇˇˇˇˇπ ¿    x  t  ñuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        P[“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  nñuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        P[“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  ¨ñuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        P[“Î         @  @    ˇˇˇˇˇˇˇπ ¿    x  t  Âñuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        P[“Î            @@   ˇˇˇˇˇˇˇπ ¿    x  t  4óuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    x  t  [óuå^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      t  –uÃá^n⁄x       x  9≥	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ˆ≈uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        p{“Î   0         @   ˇˇˇˇˇˇˇπ ¿    ‘  t  (∆uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        p{“Î   0         @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ÷∆uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        p{“Î   0         @   ˇˇˇˇˇˇˇπ ¿    ‘  t  ]«uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        p{“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  ò«uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        p{“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  ª«uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Ä{“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  Ú«uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        Ä{“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  »uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ê{“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  L»uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ê{“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t  r»uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ê{“Î         @  @    ˇˇˇˇˇˇˇπ ¿    ‘  t  •»uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        ê{“Î            @@   ˇˇˇˇˇˇˇπ ¿    ‘  t   uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î         @       ˇˇˇˇˇˇˇπ ¿    ‘  t  I uå^n⁄|â·Ù]ªhVÒÿMç”D         Ä   (                   t  –uÃá^n⁄x       ‘  s∏	à^n⁄t  –uÃá^n⁄x       t  –uÃá^n⁄x        @B“Î             @   ˇˇˇˇˇˇˇ          D
+í^n⁄∆                       !    WVT¬ˇˇ8PçT¬ˇˇπ ¿    î  ¯%  ±:që^n⁄|â·Ù]ªhVÒÿMç”D         Ä$                     ¯%  C`´Ó]n⁄       î  K§±Ó]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @ ≠˛   ∞        @   ˇˇˇˇˇˇˇπ ¿    ÿ&  ¯%  èˆ∞ë^n⁄|â·Ù]ªhVÒÿMç”D         Ä=   G                  ¯%  C`´Ó]n⁄       ÿ&  S`´Ó]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @≠˛   ∞        @   ˇˇˇˇˇˇˇπ ¿    l  ¯%  ¡ﬂ≥ë^n⁄|â·Ù]ªhVÒÿMç”D         Ä   ≠                   ¯%  C`´Ó]n⁄       l  I|Ô]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @≠˛   ∞        @   ˇˇˇˇˇˇˇπ ¿    î  ¯%  sH◊ë^n⁄|â·Ù]ªhVÒÿMç”D         Ä$                     ¯%  C`´Ó]n⁄       î  K§±Ó]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @\¨˛   ∞        @   ˇˇˇˇˇˇˇπ ¿    ¸  ¯%  ÉáÈë^n⁄|â·Ù]ªhVÒÿMç”D         Ä   Ó                   ¯%  C`´Ó]n⁄       ¸  ç∞±Ó]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @»¨˛   ∞        @   ˇˇˇˇˇˇˇ   »  »     Óá˛í^n⁄«                     »  !   8–÷U¬ˇˇ WVT¬ˇˇπ ¿    î  ¯%   ˇdí^n⁄|â·Ù]ªhVÒÿMç”D         Ä$   (                  ¯%  C`´Ó]n⁄       î  K§±Ó]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @ ≠˛   ∞        @   gÂm:®#Lπ ¿    î  ¯%  /Åôí^n⁄|â·Ù]ªhVÒÿMç”D         Ä$   ,                  ¯%  C`´Ó]n⁄       î  K§±Ó]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @≠˛   ∞        @   ˇˇˇˇˇˇˇ          Ü`ï^n⁄»                       !    WVT¬ˇˇ8PçT¬ˇˇπ ¿    î  ¯%  u/∆î^n⁄|â·Ù]ªhVÒÿMç”D         Ä$   0                  ¯%  C`´Ó]n⁄       î  K§±Ó]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @≠˛   ∞        @   ˇˇˇˇˇˇˇ   @  @     N¥Eñ^n⁄…                     @  !   8–÷U¬ˇˇ WVT¬ˇˇπ ¿    d  ÿ  P.≠ï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                       ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          oåE          0  @   gÂm:®#Lr ¿    d  ÿ  7Ì∏ï^n⁄ylAåõ‘O§gÂm:®#LÍ                  ylAåõ‘O§gÂm:®#L   N U L L           ‡Ij˛  ï8	¯%  Cπ ¿    d  ÿ  Ø‹ï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          óùE  ‡             ˇˇˇˇˇˇˇπ ¿    d  ÿ  Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  –              ˇˇˇˇˇˇˇπ ¿    d  ÿ  ªÙï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  †             ˇˇˇˇˇˇˇπ ¿    d  ÿ  ÒÙï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  †             ˇˇˇˇˇˇˇπ ¿    d  ÿ  yÚÙï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  p             ˇˇˇˇˇˇˇπ ¿    d  ÿ  »ÚÙï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  p             ˇˇˇˇˇˇˇπ ¿    d  ÿ  RÙÙï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  @             ˇˇˇˇˇˇˇπ ¿    d  ÿ  †ÙÙï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  @             ˇˇˇˇˇˇˇπ ¿    d  ÿ  $ıÙï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE               ˇˇˇˇˇˇˇπ ¿    d  ÿ  iıÙï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE               ˇˇˇˇˇˇˇπ ¿    d  ÿ  )ˆÙï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  ‡             ˇˇˇˇˇˇˇπ ¿    d  ÿ  rˆÙï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  ‡             ˇˇˇˇˇˇˇπ ¿    d  ÿ  ÈˆÙï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  ∞             ˇˇˇˇˇˇˇπ ¿    d  ÿ  -˜Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  ∞             ˇˇˇˇˇˇˇπ ¿    d  ÿ  …˜Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  ‡             ˇˇˇˇˇˇˇπ ¿    d  ÿ  ¯Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  ‡             ˇˇˇˇˇˇˇπ ¿    d  ÿ  ¯Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  ∞	             ˇˇˇˇˇˇˇπ ¿    d  ÿ  √¯Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  ∞	             ˇˇˇˇˇˇˇπ ¿    d  ÿ  )˘Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  Ä
+             ˇˇˇˇˇˇˇπ ¿    d  ÿ  k˘Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  Ä
+             ˇˇˇˇˇˇˇπ ¿    d  ÿ  B˙Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  p             ˇˇˇˇˇˇˇπ ¿    d  ÿ  ç˙Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  p             ˇˇˇˇˇˇˇπ ¿    d  ÿ  Ü˚Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  `             ˇˇˇˇˇˇˇπ ¿    d  ÿ  –˚Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  `             ˇˇˇˇˇˇˇπ ¿    d  ÿ  n¸Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  0             ˇˇˇˇˇˇˇπ ¿    d  ÿ  µ¸Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE  0             ˇˇˇˇˇˇˇπ ¿    d  ÿ  ˝Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE                ˇˇˇˇˇˇˇπ ¿    d  ÿ  _˝Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          6üE                ˇˇˇˇˇˇˇπ ¿    d  ÿ  E˛Ùï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          7üE  `             ˇˇˇˇˇˇˇπ ¿    d  ÿ  éıï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          7üE               ˇˇˇˇˇˇˇπ ¿    d  ÿ  Áıï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          7üE               ˇˇˇˇˇˇˇπ ¿    d  ÿ  ∑ıï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          7üE  ¿             ˇˇˇˇˇˇˇπ ¿    d  ÿ  	ıï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          7üE  ¿             ˇˇˇˇˇˇˇπ ¿    d  ÿ  lıï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          7üE  Ä             ˇˇˇˇˇˇˇπ ¿    d  ÿ  ≈ıï^n⁄|â·Ù]ªhVÒÿMç”D         Ä                      ÿ  l©ï^n⁄{        d  1l©ï^n⁄ÿ  l©ï^n⁄{        ÿ  l©ï^n⁄{          7üE  Ä             ˇˇˇˇˇˇˇπ ¿    î  ¯%  êÕñ^n⁄|â·Ù]ªhVÒÿMç”D         Ä$   3                  ¯%  C`´Ó]n⁄       î  K§±Ó]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @≠˛   ∞        @   ˇˇˇˇˇˇˇπ ¿    î  ¯%   ñ^n⁄|â·Ù]ªhVÒÿMç”D         Ä$   4                  ¯%  C`´Ó]n⁄       î  K§±Ó]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @≠˛   ∞        @   ˇˇˇˇˇˇˇ          ¡û‚ñ^n⁄                        !    WVT¬ˇˇ8PçT¬ˇˇπ ¿    î  ¯%  ,ßIñ^n⁄|â·Ù]ªhVÒÿMç”D         Ä$   4                  ¯%  C`´Ó]n⁄       î  K§±Ó]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @≠˛   ∞        @   ˇˇˇˇˇˇˇ          Qmmò^n⁄À                       !   8–÷U¬ˇˇ WVT¬ˇˇπ ¿    î  ¯%  Vb‘ó^n⁄|â·Ù]ªhVÒÿMç”D         Ä%   =                  ¯%  C`´Ó]n⁄       î  K§±Ó]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @ ≠˛   ∞        @   gÂm:®#L   »  »     HBô^n⁄Ã                     »  !    WVT¬ˇˇ8PçT¬ˇˇπ ¿    î  ¯%  ‹#qò^n⁄|â·Ù]ªhVÒÿMç”D         Ä&   >                  ¯%  C`´Ó]n⁄       î  K§±Ó]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @$≠˛   ∞        @   ˇˇˇˇˇˇˇπ ¿    î  ¯%  ∞ò^n⁄|â·Ù]ªhVÒÿMç”D         Ä&   D                  ¯%  C`´Ó]n⁄       î  K§±Ó]n⁄¯%  C`´Ó]n⁄       ¯%  C`´Ó]n⁄        @(≠˛   ∞        @   ˇˇˇˇˇˇˇ   1  1     îâcú^n⁄Õ                     1  !   8–÷U¬ˇˇ WVT¬ˇˇπ ¿    ú"  ¯   A≥ õ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ]                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  Ä             gÂm:®#Lπ ¿    ú"  ¯   ﬂ≥ õ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ]                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  Ä             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   Ò∂ õ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ]                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl               ˇˇˇˇˇˇˇπ ¿    ú"  ¯   E∑ õ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ]                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl               ˇˇˇˇˇˇˇπ ¿    ú"  ¯   ºÀõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  †             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   !Àõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  †             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   Àõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  p             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   aÀõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  p             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   à Àõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  @             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   ﬂ Àõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  @             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   mIÀõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  ‡             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   …IÀõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  ‡             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   ∑KÀõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  †
+             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   LÀõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  †
+             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   2aÀõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl               ˇˇˇˇˇˇˇπ ¿    ú"  ¯   äaÀõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl               ˇˇˇˇˇˇˇπ ¿    ú"  ¯   mbÀõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  @             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   ¥bÀõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä'   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  @             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   7Éœõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä(   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±           8]  `             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   Ñœõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä(   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±           8]  ¿             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   ^Ñœõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä(   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±           8]  ¿             ˇˇˇˇˇˇˇπ ¿    ú"  ¯    Üœõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä(   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±           9]  @             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   oàœõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä(   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl               ˇˇˇˇˇˇˇπ ¿    ú"  ¯   œàœõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä(   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl               ˇˇˇˇˇˇˇπ ¿    ú"  ¯   Ωçœõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä(   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±           9]  p             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   éœõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä(   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±           9]  p             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   +ÿœõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä)   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±           8]  p             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   ëÿœõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä)   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±           8]  p             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   °›œõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä)   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±           9]  ê             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   ˙›œõ^n⁄|â·Ù]ªhVÒÿMç”D         Ä)   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±           9]  ê             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   ï–õ^n⁄|â·Ù]ªhVÒÿMç”D         Ä)   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  †             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   ˜–õ^n⁄|â·Ù]ªhVÒÿMç”D         Ä)   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  †             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   Èì–õ^n⁄|â·Ù]ªhVÒÿMç”D         Ä)   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±           :]  ∞             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   %±–õ^n⁄|â·Ù]ªhVÒÿMç”D         Ä)   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  ‡             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   |±–õ^n⁄|â·Ù]ªhVÒÿMç”D         Ä)   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   ÌA/ﬂ]n⁄±         ¯   ÌA/ﬂ]n⁄±          PHl  ‡             ˇˇˇˇˇˇˇπ ¿    ú"  ¯   V≥–õ^n⁄|â·Ù]ªhVÒÿMç”D         Ä)   ^                   ¯   ÌA/ﬂ]n⁄±         ú"  ≤ †·]n⁄¯   Ìif(Object(c.s)(C)===Object(c.s)(I))return Object(c.s)(C)}return Object(c.o)(C,{excludeYear:Object(c.i)(Date.now(),C)})},"getTimestampCopy"),b=s(_=>{let{activityTs:E}=_;const[C,j]=Object(n.useState)(Date.now()),[y,I]=Object(n.useState)(!0),T=!!Object(a.c)(P=>Object(o.u)(P,"time24"));Object(r.a)(()=>{j(Date.now())},y?d:null);const M=Object(c.c)(C,+E,{units:"milliseconds"});return Object(n.useEffect)(()=>{M<p&&!y&&I(!0),M>p&&y&&I(!1)},[M,y]),t.a.createElement(t.a.Fragment,null,g({rawMilliseconds:M,activityTs:+E,time24:T}))},"ActivityTimestamp");l.a=b},U6Ni:function(B,l,e){"use strict";e.d(l,"a",function(){return h}),e.d(l,"d",function(){return u}),e.d(l,"c",function(){return d}),e.d(l,"b",function(){return p});var n=e("wd/R"),t=e.n(n),a=e("HBMi"),o=e("vg2h"),i=e("A/mR"),r=e("nNoG");const c=new r.b("do_not_disturb"),h=s(function(m){let{currentTime:f=t()().unix()}=arguments.length>1&&arguments[1]!==void 0?arguments[1]:{};const v=Object(a.a)(f),O=Object(a.a)(m);return Math.ceil(Object(o.a)(O,v))},"calculateSnoozeDurationInMinutes"),u=s(function(){let{time:m="09:00"}=arguments.length>0&&arguments[0]!==void 0?arguments[0]:{};const f=t()().add(1,"days").format("YYYY-MM-DD"),v=t()(`${f} ${m}`).unix();return h(v)},"getMinutesUntilTomorrow"),d=s(function(){let{time:m="09:00"}=arguments.length>0&&arguments[0]!==void 0?arguments[0]:{};const f=t()().add(1,"week").startOf("isoWeek").format("YYYY-MM-DD"),v=t()(`${f} ${m}`).unix();return h(v)},"getMinutesUntilNextWeek"),p=s(function(m){let{do24hrTime:f=!1,today:v=t()().format("YYYY-MM-DD"),tomorrow:O=t()().add(1,"day").format("YYYY-MM-DD"),vacationDelight:g=!1}=arguments.length>1&&arguments[1]!==void 0?arguments[1]:{};if(!m)return"";if(g)return c.t("Notifications are paused until you\u2019re back from vacation and clear your status. \u{1F334}");const b=Object(i.g)(m,"{time}",{do24hrTime:f}),_=Object(i.g)(m,"{date_num}");return _===v?c.t("Notifications paused until {time}",{time:b}):_===O?c.t("Notifications paused until tomorrow at {time}",{time:b}):c.t("Notifications paused until {expires}",{expires:Object(i.g)(m,"{status_expiration}",{do24hrTime:f})})},"getDndEndTimeDescription")},U9Q2:function(B,l,e){"use strict";var n=e("q1tI"),t=e.n(n),a=e("zxER"),o=e("wKGu"),i=e("ktUG"),r=e("nNoG"),c=e("JoR1"),h=e("SNxt"),u=e("Tsh7");const d=new r.b("stories_av");function p(m){let{isInlinePlayer:f,videoRef:v,sharedClogProps:O={},className:g}=m;const b=Object(o.a)(),_=Object(a.c)(C=>Object(c.u)(C,"media_playback_speed"));Object(n.useEffect)(()=>{var C;v==null||(C=v.current)===null||C===void 0||C.setPlaybackRate(_)},[_,v]);const E=Object(n.useCallback)((C,j)=>{b.track(i.EventId.MEDIA_PLAYER,{...O,contexts:{...O.contexts,ui_context:{ui_step:f?"embedded":"fullscreen",action:"click",ui_properties:{element_type:"button",element_name:"playback_speed"}}},from:`${j??1}x`,to:`${C??1}x`})},[b,O,f]);return t.a.createElement(u.d,{tip:d.t("Playback speed"),position:"top",delay:u.b},t.a.createElement(h.a,{onSpeedChange:E,isInlinePlayer:f,className:g}))}s(p,"PlaybackSpeedButton"),p.displayName="PlaybackSpeedButton",l.a=p},U9wHI:function(B,l,e){B.exports=e.p+"gcalendar-9f2401d.png"},UATc:function(B,l,e){"use strict";e.d(l,"a",function(){return f});var n=e("q1tI"),t=e("/MKj"),a=e("nNoG"),o=e("tv4y"),i=e("Lts7"),r=e("zxER"),c=e("4p+0"),h=e("xwCZ");function u(v){let{hermesLinkTriggerUIContext:O,shortcutInfo:g}=v;const b=Object(r.c)(h.c),_=Object(n.useMemo)(()=>{var C;return!!(b!=null&&b.id&&(!((C=g.appCollaborators)===null||C===void 0)&&C.includes(b.id)))},[g,b==null?void 0:b.id]),E=Object(c.a)(O);return _&&E}s(u,"useCanEditWorkflow");var d=e("a7YP");const p=new a.b("hermes_shortcuts"),m="edit_workflow";function f(v){let{shortcutInfo:O,hermesLinkTriggerUIContext:g}=v;const b=Object(t.useDispatch)(),_=Object(r.c)(d.u),E=u({hermesLinkTriggerUIContext:g,shortcutInfo:O}),{isWorkflowApp:C,workflowId:j,salesHomeWorkflowAppType:y}=O,I=_&&(y===void 0||y===0)&&E&&C,T=Object(n.useCallback)(M=>{M==null||M.stopPropagation();const P=j?`/workflow/${j}`:"";b(Object(i.a)({source:"workflow-card",subPath:P}))},[b,j]);return{key:m,dataQa:m,label:p.t("Edit workflow"),autoClogProps:{},click:T,show:I,type:o.b.default}}s(f,"useEditWorkflowMenuItemTemplate")},UEbG:function(B,l,e){"use strict";e.d(l,"a",function(){return c});var n=e("q1tI"),t=e.n(n),a=e("zxER"),o=e("M6+/"),i=e("4eEG"),r=e("9068");const c=s(h=>{var u;const d=Object(n.useMemo)(()=>(u=h.filter(O=>Object(o.d)(O)))!==null&&u!==void 0?u:[],[h]);var p;const m=Object(a.c)(O=>Object(i.b)(O,{ids:d.map(g=>(p=Object(o.b)(g))!==null&&p!==void 0?p:"")})),f=Object(n.useMemo)(()=>m.some(O=>Object(r.c)(O)),[m]);return{workflowSteps:Object(n.useMemo)(()=>{let O=h;return d.forEach((g,b)=>{const _=m[b];Object(r.d)(_)||(O=O.concat({...g,function:_}))}),O},[m,d,h]),isAnyFormWrappedFunctionLoading:f}},"useWorkflowStepsWithFormWrappedStepsSeparated")},UFIC:function(B,l,e){"use strict";e.d(l,"a",function(){return n}),e.d(l,"b",function(){return t});const n={MESSAGE:"message",FILE:"file",FILE_COMMENT:"file_comment",CHANNEL:"channel"},t={starsList:[],currentPage:0,totalPages:0,isLoading:!0,cursorMark:void 0,lastStarredTs:void 0}},UGTo:function(B,l,e){B.exports=e.p+"celebrate-84703b3.svg"},UJZI:function(B,l,e){"use strict"},UL37:function(B,l,e){"use strict";var n=e("2VFn");const t={WORKSPACE_SWITCHER_TAB_LIST:0,PRIMARY_WORKSPACE_ACTIONS:1,SECONDARY_WORKSPACE_ACTIONS:2,WORKSPACE_NAVIGATION:3,PRIMARY_VIEW:4,SECONDARY_VIEW:5,TOP_NAV:0,WORKSPACE_SWITCHER:1,WORKSPACE_SWITCHER_RAIL:2,WORKSPACE_TAB_RAIL:3,CONTROL_STRIP:7,HUDDLE_WORKSPACE:8,[n.i.Sidebar]:4,[n.i.Primary]:5,[n.i.Secondary]:6,[n.i.Modal]:-1,[n.i.Peek]:-1};l.a=t},UMwZ:function(B,l,e){"use strict";var n=e("q1tI"),t=e.n(n),a=e("ZobM"),o=e("UIhb"),i=e("rdha"),r=e("nNoG"),c=e("pu3F"),h=e("ktUG");const u=new r.b("messages_action_items"),d=Object(i.c)((p,m)=>{let{ts:f,channelId:v}=m;if(!Object(o.b)(p,v,f))return null;const g=c.X.openInANewWindow,b=t.a.createElement(a.a,{name:"open-in-window"});return{id:g,name:u.t("Open in new window",{fallbackHash:"a75732d85773c5b6be77659c28f8a54ed4c9ba54",fallbackHashNs:"activity"}),icon:b,"data-qa":"dms_tab_context_menu_open_in_a_new_window",frecencyId:"dms_tab_context_menu_open_in_a_new_window",uiElement:h.UiElement.DMS_TAB_CONTEXT_MENU_NEW_WINDOW}});l.a=d},UNgH:function(B,l,e){"use strict";e.d(l,"a",function(){return u});var n=e("9oTK"),t=e.n(n),a=e("m8R6"),o=e("2XU3"),i=e("WCk1"),r=e("s4P+"),c=e("pjW8");const h={NotFound:"not_found",InvalidTeam:"invalid_team",UnsupportedIdType:"unsupported_id_type",InvalidNamePleaseRegisterItInSimpleEntityType:"invalid_name_please_register_it_in_Simple_EntityType"},u=Object(i.a)("schemaless.get generated fetcher",function(){var d=Object(n.coroutine)(function*(p,m,f){try{const v=["reason"],O=Object(a.a)(f,v),g=Object(c.b)(O);return yield p(Object(o.apiCall)({method:"schemaless.get",args:g,reason:f.reason}))}catch(v){throw Object(r.a)({getState:m}).error(`API call to schemaless.get
+				with reason ${f.reason} failed, initiated by generated fetcher`),v}});return function(p,m,f){return d.apply(this,arguments)}}());u.meta={name:"createFetcher",key:"createFetcherschemalessGetFetcher",description:"schemaless.get generated fetcher"}},UPgx:function(B,l,e){B.exports=e.p+"canvas-tab-reveal-coachmark-57ab342.png"},UQe9:function(B,l,e){B.exports=e.p+"hand-holding-phone-74cfcd7.svg"},UQsu:function(B,l,e){"use strict";var n=e("q1tI"),t=e.n(n),a=e("zxER"),o=e("beVI"),i=e("E3dU"),r=e("pOmS"),c=e("e55/"),h=e("G0eX"),u=e("Jmua"),d=e("bJfW"),p=e("G4FP");const m=s(f=>{let{channelId:v,showTeamForLocalChannels:O}=f;var g;const b=Object(a.c)(o.g),_=Object(a.c)(j=>Object(i.d)(j,v)),E=Object(r.a)(_),C=(g=Object(a.c)(j=>Object(c.a)(j,_)))===null||g===void 0?void 0:g.length;return t.a.createElement(p.a,{channelId:v,"data-qa":"channel-select-list-entity",showTeamForLocalChannel:O&&Object(h.y)(b)&&!Object(u.a)(_)&&!Object(d.b)(E)&&C===1})},"ChannelSelectListEntity");m.displayName="ChannelSelectListEntity",l.a=m},UR1S:function(B,l,e){B.exports=e.p+"Step-4.de-DE@2x-186b799.png"},URDv:function(B,l,e){"use strict";e.d(l,"a",function(){return t});var n=e("DwFS");const t=Object(n.a)("Set the boolean for the marker pulse effect");t.meta={name:"createAction",key:"createActionsetMarkerWillPulse",description:"Set the boolean for the marker pulse effect"}},USJY:function(B,l,e){B.exports=e.p+"oppty-onboarding-dark@2x-cc660db.png"},UTv8:function(B,l,e){"use strict";e.d(l,"a",function(){return i});var n=e("SQ0V"),t=e("qawj"),a=e("L5Wk"),o=e("cjZt");const i=Object(n.c)("Remove a media reaction locally",(r,c,h)=>{let{channelId:u,ts:d,fileId:p,reaction:m}=h;const f=c();if(!Object(t.a)(f))return;const v=Object(a.a)(f,{channelId:u,ts:d,fileId:p});if(!v)return;const O=v.reactions.find(E=>{var C;return E.name===m.name&&E.offsetMs===m.offsetMs&&((C=E.users)===null||C===void 0?void 0:C.includes(m.user))});if(!O)return;const g=O.count<=1||O.users&&O.users.length<=1;var b;const _=v.reactions.filter(E=>E!==O).concat(g?[]:[{offsetMs:O.offsetMs,name:O.name,count:O.count-1,users:((b=O.users)!==null&&b!==void 0?b:[]).filter(E=>E!==m.user)}]);r(Object(o.a)({objects:[{id:[u,d,p].join("-"),channelId:u,ts:d,fileId:p,reactions:_}]}))});i.meta={name:"createThunk",key:"createThunkremoveMediaReaction",description:"Remove a media reaction locally"}},UV2X:function(B,l,e){"use strict";e.d(l,"a",function(){return i});var n=e("WCk1"),t=e("2XU3"),a=e("CCiu");const o=Object(n.a)("Fetches external dm invite URL",(r,c,h)=>r(Object(t.apiCall)({method:"sharedInvites.getLink",args:{tracking_id:h.trackingId},reason:"generate-external-dm-invite-url"})).then(u=>{const d={inviteUrl:u.link,inviteId:u.id};return r(Object(a.e)({areInvitesFresh:!1})),d}));o.meta={name:"createFetcher",key:"createFetchergetExternalDmInviteUrl",description:"Fetches external dm invite URL"};const i=Object(n.a)("Sends SCDM email invites to specified email addresses",(r,c,h)=>{const{emails:u,message:d}=h;return r(Object(t.apiCall)({method:"sharedInvites.getLink",args:{tracking_id:h.trackingId,emails:u,message:d},reason:"send-scdm-email-invite"})).then(p=>{const m={inviteId:p.id};return r(Object(a.e)({areInvitesFresh:!1})),m})});i.meta={name:"createFetcher",key:"createFetchersendSlackConnectEmails",description:"Sends SCDM email invites to specified email addresses"}},UVrA:function(B,l,e){"use strict";e.d(l,"a",function(){return r});var n=e("9oTK"),t=e.n(n),a=e("SQ0V"),o=e("Ct2u");const i="100",r=Object(a.c)("fetch user groups in org context",function(){var c=Object(n.coroutine)(function*(h,u){let{searchTerm:d,query:p,nextCursorMark:m,includeChannelCount:f,count:v=i}=arguments.length>2&&arguments[2]!==void 0?arguments[2]:{};return h(Object(o.f)({searchTerm:d,count:v,query:p,nextCursorMark:m,includeChannelCount:f?1:0,includeEnterprise:0}))});return function(h,u){return c.apply(this,arguments)}}());r.meta={name:"createThunk",key:"createThunkfetchOrgUserGroups",description:"fetch user groups in org context"}},UWfn:function(B,l,e){"use strict";e.d(l,"b",function(){return M}),e.d(l,"c",function(){return P}),e.d(l,"a",function(){return S});var n=e("q1tI"),t=e.n(n),a=e("zxER"),o=e("68qM"),i=e("5ORm"),r=e("/MKj"),c=e("i9y5"),h=e("ZobM"),u=e("7ibc"),d=e("forh"),p=e("VvJB"),m=e("+gmx"),f=e("FroQ"),v=e("eqVl"),O=e("nNoG"),g=e("Sl1j"),b=e("m40f"),_=e("nFQW"),E=e("FvuD");const C=new O.b("slack-docs"),j="channel_canvas_summary",y=400;function I(A){let{channelId:D}=A;const R=Object(n.useRef)(null),[N,L]=Object(n.useState)(null),[x,U]=Object(n.useState)(null),[K,H]=Object(n.useState)(null),[F,W]=Object(n.useState)(!1),[k,w]=Object(n.useState)(!1),[G,z]=Object(n.useState)(!1),[Q,$]=Object(n.useState)(!1),[X,J]=Object(n.useState)(""),Z=Object(r.useDispatch)(),V=Object(a.c)(u.m),ee=Object(a.c)(ie=>Object(m.d)(ie,{id:N})),q=Object(n.useCallback)(ie=>{const re={timestamp:Date.now(),summary:ie};try{const ve={[j]:JSON.stringify(re)};Z(Object(g.u)({channelId:D,newPrefs:JSON.stringify(ve),reason:"set-summary-card"})).catch(()=>{$(!0)})}catch{$(!0)}},[D,Z]),se=Object(n.useCallback)(()=>{F&&W(!1),N&&L(null),x&&U(null),Z(Object(i.a)({channel:D,postSummaryMessage:!1,channelSummaryType:v.a.Week,lastUnreadTs:void 0,reason:"summarize-channel-unreads"})).then(ie=>{var re;if(ie.ok&&(!(ie==null||(re=ie.summary)===null||re===void 0)&&re.id)){var ve,me;Z(Object(f.c)({id:ie==null||(ve=ie.summary)===null||ve===void 0?void 0:ve.id,channelId:D,type:v.d.Channel,subtype:v.a.Week})),L(ie==null||(me=ie.summary)===null||me===void 0?void 0:me.id),H(!0)}else $(!0)}).catch(ie=>{var re;(ie==null||(re=ie.data)===null||re===void 0?void 0:re.error)==="invalid_channel_type"&&J(V?C.t("Summarization is currently not supported in shared channels."):""),$(!0)})},[N,D,Z,x,V,F]);Object(n.useEffect)(()=>{var ie;if(K&&(!(ee==null||(ie=ee.content)===null||ie===void 0)&&ie.blocks)){try{var re;q(JSON.stringify(ee==null||(re=ee.content)===null||re===void 0?void 0:re.blocks))}catch{$(!0)}H(!1)}},[K,ee,q]),Object(o.a)(()=>{Z(Object(g.n)({channelId:D,prefName:j,reason:"get-summary-card"})).then(ie=>{var re;if(!(ie==null||(re=ie.pref_value)===null||re===void 0)&&re.payload)try{var ve;const me=JSON.parse(ie==null||(ve=ie.pref_value)===null||ve===void 0?void 0:ve.payload),fe=Date.now();if(me!=null&&me.timestamp&&typeof(me==null?void 0:me.timestamp)=="number"){const ne=fe-me.timestamp,pe=864e5*7;if(ne>pe)se();else try{U(JSON.parse(me==null?void 0:me.summary))}catch{$(!0)}}else se()}catch(me){throw new Error(me)}else se()}).catch(()=>{$(!0)})},[D]);const de=Object(n.useCallback)(()=>{var ie;if(!V)return null;if(x)return t.a.createElement(d.a,{blocks:x,blocksContainerContext:p.a.view,container:p.a.view});if(ee&&(!(ee==null||(ie=ee.content)===null||ie===void 0)&&ie.blocks)){var re;return t.a.createElement(d.a,{blocks:ee==null||(re=ee.content)===null||re===void 0?void 0:re.blocks,blocksContainerContext:p.a.view,container:p.a.view})}return Q?t.a.createElement("div",{className:"p-canvas_smart_cards__error"},X||C.t("No recent messages within last week to summarize!")):t.a.createElement(c.a,{size:"large"})},[ee,Q,X,V,x]);return Object(o.a)(()=>{R.current&&!F&&R.current.offsetHeight>=y&&W(!0)},[ee,Q,X,V,x]),V?t.a.createElement("div",{className:"p-canvas_smart_cards",onMouseEnter:()=>z(!0),onMouseLeave:()=>z(!1)},t.a.createElement("div",{className:"p-canvas_smart_cards__header"},t.a.createElement("div",{className:"p-canvas_smart_cards__header__title"},C.t("Summary")),t.a.createElement("div",null,t.a.createElement(h.a,{name:"sparkles",inline:!0})),G?t.a.createElement("div",{className:"c-card_container__actions c-card_container__actions--position_inset"},t.a.createElement(_.a,{onClick:se,"aria-label":C.t("Refresh channel summary")},t.a.createElement(h.a,{name:"refresh",inline:!0}))):null),t.a.createElement("div",{className:"p-canvas_smart_cards__summary",ref:R,style:{maxHeight:k?"100%":y}},de()),F?t.a.createElement("div",{className:"p-canvas_smart_cards__see_more_area"},t.a.createElement(b.a,{onClick:()=>w(!k)},k?C.t("See less"):C.t("See more"))):null):null}s(I,"SummaryCard"),I.displayName="SummaryCard";var T=I;function M(A){let{channelId:D}=A;return`smartsummary:${D}`}s(M,"generateSmartSummaryCardComponentId");function P(A){if(A.startsWith("smartsummary:"))return{channelId:A.substring(13)}}s(P,"parseSmartSummaryCardComponentId");function S(A){let{channelId:D}=A;return Object(a.c)(u.m)?t.a.createElement(T,{channelId:D}):null}s(S,"EmbeddedGenericSmartSummaryCard")},"UXk+":function(B,l,e){"use strict";e.d(l,"a",function(){return b});var n=e("q1tI"),t=e.n(n),a=e("/MKj"),o=e("zxER"),i=e("BHdc"),r=e("ifKl"),c=e("xwCZ"),h=e("Enx8"),u=e("C3vN"),d=e("i9jZ"),p=e("6JJY"),m=e("m40f"),f=e("zUbs"),v=e("hooW"),O=e("NV6F"),g=e("3956");const b=s(_=>{let{id:E,className:C=void 0,children:j=void 0,replaceNameIfHidden:y=!1,clogLinkClick:I=r.a,"data-qa":T=void 0}=_;const M=Object(a.useDispatch)(),P=Object(o.c)(L=>Object(c.g)(L,E)),S=Object(o.c)(L=>Object(h.a)(L,E,!1,!1,!1,y)),A=Object(n.useCallback)(L=>{Object(d.d)(L)?M(Object(p.a)(P.id)):M(Object(g.a)({memberId:P.id})),L.preventDefault(),I({item_id:E,item_type:E.charAt(0),link_type:"user"})},[M,I,E,P]),D=Object(n.useCallback)(()=>j||t.a.createElement(f.a,{name:S}),[j,S]);if(Object(u.fb)(P))return t.a.createElement(v.a,{type:"non-existent"});if(Object(u.pb)(P))return t.a.createElement(v.a,{type:"unknown"});const R=Object(i.default)("c-member_link display_flex",C),N=t.a.createElement(m.a,{className:R,"data-qa":T,onClick:A},D());return Object(O.F)({memberId:P.id,children:N})},"MemberLink");b.displayName="MemberLink"},UY4Z:function(B,l,e){"use strict";e.d(l,"a",function(){return n});function n(){let{fileId:t,ts:a,channelId:o,viewContext:i}=arguments.length>0&&arguments[0]!==void 0?arguments[0]:{};const r=i?`-${i}`:"";return`${o}-${a}-${t}-${r}`}s(n,"makeKey")},UYKR:function(B,l,e){"use strict";e.d(l,"b",function(){return c}),e.d(l,"a",function(){return h});var n=e("ZKjC"),t=e("FUEd"),a=e("g3FH"),o=e("i5Ig"),i=e("rdha");const r=Object(n.b)((u,d)=>u.quipPresence[d]);r.meta={name:"createSelector",key:"createSelectorgetLastPresenceByFileId",description:(u,d)=>u.quipPresence[d]};const c=Object(i.a)((u,d)=>{var p,m,f,v;const O=((p=u.quipPresence)===null||p===void 0||(m=p[d])===null||m===void 0?void 0:m.presenceInfo)||o.b;return(((f=u.quipPresence)===null||f===void 0||(v=f[d])===null||v===void 0?void 0:v.memberIds)||o.a).filter(_=>{const E=O[_];return E.isEditing||E.isFocused?!0:Object(t.c)(u,_)===a.a})}),h=Object(n.b)((u,d,p)=>{var m,f,v;return!!(!((v=(m=u.quipPresence)===null||m===void 0||(f=m[p])===null||f===void 0?void 0:f.presenceInfo[d])===null||v===void 0)&&v.isEditing)});h.meta={name:"createSelector",key:"createSelectorgetIsPresentMemberEditingByFileId",description:(u,d,p)=>{var m,f,v;return!!(!((v=(m=u.quipPresence)===null||m===void 0||(f=m[p])===null||f===void 0?void 0:f.presenceInfo[d])===null||v===void 0)&&v.isEditing)}}},UZO2:function(B,l,e){"use strict";e.d(l,"a",function(){return c});var n=e("E3dU"),t=e("xwCZ"),a=e("IYwZ"),o=e("gVOt"),i=e("C3vN"),r=e("E97Y");function c(h,u){const d=Object(n.d)(h,u.channelId);if(Object(r.g)(d)){const m=Object(o.a)(d),f=Object(t.g)(h,m);if(Object(i.bb)(f)||Object(i.jb)(f)||Object(i.T)(f))return!1;if(m&&Object(a.b)(h,m))return!0}const p=u.memberIds||[];if(!d&&p.length&&p.length===1){const m=p[0],f=Object(t.g)(h,m);if(Object(i.bb)(f)||Object(i.jb)(f)||Object(i.T)(f))return!1;if(Object(a.b)(h,m))return!0}return!1}s(c,"shouldDisplayDndDMBanner")},Ua0Z:function(B,l,e){"use strict";e.d(l,"a",function(){return r});var n=e("F294"),t=e("Ar8P"),a=e("m5Yc"),o=e("7jFJ");function i(c){let{url:h,messageBlocks:u}=c;var d;return!Object(t.a)(u)||!h?!1:Object(n.a)(Object(o.a)(u==null||(d=u[0])===null||d===void 0?void 0:d.elements,!1,(p,m)=>p||(m.type===a.b.LINK?m.url===h||m.url===h.replace(/\/+$/,""):!1)))}s(i,"messageBlocksContainLink");function r(c){let{attachment:h,messageSubtype:u,messageText:d,messageBlocks:p,messageIsStandalone:m,expandInlineImgsPref:f,expandNonMediaAttachmentsPref:v,isRichTextMessage:O}=c;return h?h.is_share||u==="reply_broadcast"||h.service_name==="twitter"&&u==="bot_message"||!h.from_url||m||d&&!O&&d.indexOf(h.from_url.replace(/&/g,"&amp;"))===-1||p&&O&&!i({url:h.from_url,messageBlocks:p})||f&&(h.audio_html||h.other_html||h.video_html||h.image_url||h.service_name&&h.service_name.toString().toLowerCase()==="twitter")?!0:v:!1}s(r,"shouldShow")},UaRM:function(B,l,e){"use strict";var n=e("q1tI"),t=e.n(n),a=e("nNoG"),o=e("M+5u"),i=e("C3vN"),r=e("zxER"),c=e("xwCZ"),h=e("JoR1"),u=e("ZOzc"),d=e("K7jq"),p=e("oEDn"),m=e("Tevt"),f=e("2OfI"),v=e("N5xo"),O=e("jYsG"),g=e("yCpm");const b=new a.b("channel_details"),_=s(E=>{let{memberId:C,onOpenProfile:j,hidePhone:y}=E;const I=Object(r.c)(F=>Object(c.g)(F,C)),T=Object(r.c)(F=>Object(h.u)(F,"time24")),M=Object(r.c)(F=>Object(u.a)(F,"display_email_addresses")),P=Object(r.c)(F=>Object(u.a)(F,"display_external_email_addresses")),S=Object(i.h)(I),A=Object(i.r)(I),D=Object(i.D)(I),R=Object(i.E)(I),N=Object(d.a)(I),[L,x]=Object(n.useState)();Object(v.a)(()=>{if(!D&&!R)return;const F=Object(o.a)(Date.now(),{do24hrTime:T,timeZone:D??void 0,timeZoneOffset:R});x(F)},[T,D,R]);const U=!!L,K=Object(f.a)(A)&&!y,H=Object(f.a)(S)&&(N?P:M||Object(i.jb)(I));return!U&&!K&&!H?null:t.a.createElement(O.a,null,t.a.createElement(g.a,{renderButton:()=>t.a.createElement(m.a,{className:"bold",onClick:j},b.t("View full profile",{fallbackHash:"41880f61c8414eb27e37f0c3f2ceee21a163c6a4"})),text:t.a.createElement(t.a.Fragment,null,U&&t.a.createElement("div",{className:"p-about_modal__member_profile_section_item"},t.a.createElement(p.a,{"aria-hidden":!0,className:"p-about_modal__member_profile_section_item_icon",type:"clock-o"}),t.a.createElement("span",null,b.t("{time} local time",{time:L}))),K&&t.a.createElement("div",{className:"p-about_modal__member_profile_section_item"},t.a.createElement(p.a,{"aria-hidden":!0,className:"p-about_modal__member_profile_section_item_icon",type:"phone"}),t.a.createElement(m.a,{href:`tel:${A}`},A)),H&&t.a.createElement("div",{className:"p-about_modal__member_profile_section_item"},t.a.createElement(p.a,{"aria-hidden":!0,className:"p-about_modal__member_profile_section_item_icon",type:"envelope-o"}),t.a.createElement(m.a,{href:`mailto:${S}`},S)))}))},"MemberProfileSection");_.displayName="MemberProfileSection",l.a=_},Uaax:function(B,l,e){"use strict";var n=e("q1tI"),t=e.n(n),a=e("c07z"),o=e("BUaB"),i=e("nNoG"),r=e("WSQ4");const c=new i.b("lists"),h=["number","currency","percent"],u=s(d=>{let{column:p,value:m,onUpdated:f,onBlur:v,onFocus:O,ariaDescribedBy:g,viewOnly:b,focusOnMount:_,className:E}=d;const C=Object(n.useRef)(null),j=Object(n.useRef)(m),{window:y}=Object(n.useContext)(r.a);Object(n.useEffect)(()=>{var A;C.current&&!(!((A=C.current.container)===null||A===void 0)&&A.contains(y.document.activeElement))&&C.current.value(m)},[m,y.document.activeElement]);const I=s(()=>C.current&&h.includes(p.type)?isNaN(C.current.value())?(C.current.value(j.current),!1):(j.current=C.current.value(),!0):!0,"validateInput"),T=s(A=>{if(A==="user"&&I()){let D=C.current.value();h.includes(p.type)&&(D=Number(D)),f==null||f(p.key,D)}},"onTextChange"),M=s(()=>{var A;v==null||v(p.key,(A=C.current)===null||A===void 0?void 0:A.value())},"handleOnBlur"),P=s(()=>{var A;v==null||v(p.key,(A=C.current)===null||A===void 0?void 0:A.value(),!0)},"handleOnEnter"),S=s(()=>{O==null||O(p.key)},"handleOnFocus");return t.a.createElement(a.a,{className:E,hideBorder:!0},t.a.createElement(o.a,{ref:C,id:p.key,ariaDescribedBy:g,initialValue:m,onBlur:M,onEnter:P,onEscape:M,onFocus:S,useStickyComposer:!1,onTextChange:T,isDisabled:b,focusOnMount:!!_,ariaLabel:c.t("Text record content"),placeholder:""}))},"RecordTextInput");u.displayName="RecordTextInput",l.a=t.a.memo(u)},UahF:function(B,l,e){"use strict";e.d(l,"a",function(){return t});var n=e("ZKjC");const t=Object(n.b)((a,o)=>a.ambientMessages[o]);t.meta={name:"createSelector",key:"createSelectorgetAmbientMessage",description:(a,o)=>a.ambientMessages[o]}},Ubdx:function(B,l,e){"use strict";e.d(l,"d",function(){return c}),e.d(l,"a",function(){return h}),e.d(l,"c",function(){return u}),e.d(l,"b",function(){return d}),e.d(l,"e",function(){return p});var n=e("nSuI"),t=e("SQ0V"),a=e("bi++"),o=e("XIp8"),i=e("Muja"),r=e("wXOV");const c=Object(t.c)("Update quip presence info",(v,O,g)=>{let{docId:b,editors:_}=g;const E=m(b,O());v(a.d({docId:b,editors:_})),f(b,E,O())});c.meta={name:"createThunk",key:"createThunkupdatePresenceEditingInfo",description:"Update quip presence info"};const h=Object(t.c)("Add viewers to quip presence",(v,O,g)=>{let{docId:b,viewers:_}=g;const E=m(b,O());v(a.a({docId:b,viewers:_})),f(b,E,O())});h.meta={name:"createThunk",key:"createThunkaddViewingPresence",description:"Add viewers to quip presence"};const u=Object(t.c)("Remove viewers from quip presence",(v,O,g)=>{let{docId:b,removedViewers:_}=g;const E=m(b,O());v(a.c({docId:b,removedViewers:_})),f(b,E,O())});u.meta={name:"createThunk",key:"createThunkremoveViewingPresence",description:"Remove viewers from quip presence"};const d=Object(t.c)("Remove all viewers from quip presence",(v,O,g)=>{let{docId:b}=g;var _,E,C,j;const y=(j=(_=O())===null||_===void 0||(E=_.quipPresence)===null||E===void 0||(C=E[b])===null||C===void 0?void 0:C.presenceInfo)!==null&&j!==void 0?j:{};v(a.b({docId:b})),f(b,y,O())});d.meta={name:"createThunk",key:"createThunkclearPresence",description:"Remove all viewers from quip presence"};const p=Object(t.c)("Update isViewing for viewers who are/are not pinging",(v,O,g)=>{let{docId:b,viewers:_}=g;const E=m(b,O());v(a.e({docId:b,viewers:_})),f(b,E,O())});p.meta={name:"createThunk",key:"createThunkupdateViewingPresence",description:"Update isViewing for viewers who are/are not pinging"};function m(v,O){var g,b,_;return Object(o.a)((_=O==null||(g=O.quipPresence)===null||g===void 0||(b=g[v])===null||b===void 0?void 0:b.presenceInfo)!==null&&_!==void 0?_:{})}s(m,"recordPresence");function f(v,O,g){var b,_;const E=Object(r.a)(g,v,!1);var C;const j=(C=g==null||(b=g.quipPresence)===null||b===void 0||(_=b[v])===null||_===void 0?void 0:_.presenceInfo)!==null&&C!==void 0?C:{};if(E&&!Object(i.a)(O,j)){var y;const I=Object.keys(j).map(T=>({slackUserId:T,isWriting:j[T].isEditing}));(y=n.b.get(g))===null||y===void 0||y.onPresenceUpdated([{threadId:E,presenceUsers:I}])}}s(f,"updateByDocId")},Ubqm:function(B,l,e){"use strict";e.d(l,"a",function(){return t}),e.d(l,"b",function(){return o});var n=e("ZKjC");const t=Object(n.b)((i,r)=>{const{quipEphemeralMessages:c}=i;return c&&c.originalMsgToEphemeralMsgs[r]});t.meta={name:"createSelector",key:"createSelectorgetEphemeralMessagesForOriginalMessage",description:(i,r)=>{const{quipEphemeralMessages:c}=i;return c&&c.originalMsgToEphemeralMsgs[r]}};const a=Object(n.b)((i,r)=>{const{quipEphemeralMessages:c}=i,h=c&&c.originalMsgToEphemeralMsgs[r];return h&&h.length&&h[0]});a.meta={name:"createSelector",key:"createSelectorgetFirstEphemeralMessageForOriginalMessage",description:(i,r)=>{const{quipEphemeralMessages:c}=i,h=c&&c.originalMsgToEphemeralMsgs[r];return h&&h.length&&h[0]}};const o=Object(n.b)((i,r)=>{const{quipEphemeralMessages:c}=i;return!!(c!=null&&c.ephemeralMsgToOriginalMsg[r])});o.meta={name:"createSelector",key:"createSelectorisEphemeralMessageAvailable",description:(i,r)=>{const{quipEphemeralMessages:c}=i;return!!(c!=null&&c.ephemeralMsgToOriginalMsg[r])}}},UdG6:function(B,l,e){"use strict";e.d(l,"a",function(){return v});var n=e("wd/R"),t=e.n(n),a=e("ZKjC"),o=e("beVI"),i=e("Zdzc"),r=e("xwCZ"),c=e("JoR1"),h=e("C3vN"),u=e("y3Vx"),d=e("G0eX"),p=e("5vKo"),m=e("nTDs"),f=e("s9Q6");const v=Object(a.b)(O=>{if(Object(m.q)(O)>0)return!0;if(!!Object(c.u)(O,"enable_slack_connect_view")===!1)return!1;const b=Object(c.u)(O,"enable_slack_connect_view_2");if(b===1)return!0;if(b===2)return!1;if(Object(p.a)(O).length>0)return!0;const E=Object(r.c)(O),C=Object(o.g)(O);if(Object(u.b)(O)){if(Object(d.H)(C)||Object(f.j)(O)||Object(f.i)(O)){if(Object(c.u)(O,"seen_sc_page"))return!0;const y=t()((Object(h.i)(E)||0)*1e3);return t()(y).add(3,"day").isBefore(t.a.now())}return!0}return!!Object(i.b)(O,{shouldRefetch:!1})});v.meta={name:"createSelector",key:"createSelectorshouldShowSlackConnectLinkInPageset",description:O=>{if(Object(m.q)(O)>0)return!0;if(!!Object(c.u)(O,"enable_slack_connect_view")===!1)return!1;const b=Object(c.u)(O,"enable_slack_connect_view_2");if(b===1)return!0;if(b===2)return!1;if(Object(p.a)(O).length>0)return!0;const E=Object(r.c)(O),C=Object(o.g)(O);if(Object(u.b)(O)){if(Object(d.H)(C)||Object(f.j)(O)||Object(f.i)(O)){if(Object(c.u)(O,"seen_sc_page"))return!0;const y=t()((Object(h.i)(E)||0)*1e3);return t()(y).add(3,"day").isBefore(t.a.now())}return!0}return!!Object(i.b)(O,{shouldRefetch:!1})}}},Uddq:function(B,l,e){"use strict";var n=e("9oTK"),t=e.n(n),a=e("Lgge"),o=e("n3tL"),i=e("h9dl"),r=e("E3dU"),c=e("SQ0V"),h=e("Yauy");const u=Object(c.c)("Get relevant channel data for sharing",function(){var d=Object(n.coroutine)(function*(p,m){let{channelOrMemberId:f}=arguments.length>2&&arguments[2]!==void 0?arguments[2]:{};const v=m(),O=yield p(Object(i.a)({channelOrMemberId:f})),g=Object(r.d)(v,O),b=Object(h.Fb)(v,g);return a.a.resolve({channelId:O,channelTeamId:b})});return function(p,m){return d.apply(this,arguments)}}());u.meta={name:"createThunk",key:"createThunkgetTargetChannel",description:"Get relevant channel data for sharing"},u.propTypes={channelOrMemberId:o.default.string},l.a=u},Ueq5:function(B,l,e){"use strict";var n=e("q1tI"),t=e.n(n),a=e("vJtL"),o=e("BHdc"),i=e("d5BB"),r=e("8E+v");const c=t.a.forwardRef((u,d)=>{let{hasFocus:p,hasFocusWithin:m,renderHeader:f,renderIcon:v,renderPrimary:O,renderSecondary:g,renderFooter:b,renderActions:_,shouldOmitBody:E,shouldDisplayErrorFooter:C,onCardClick:j,className:y,message:I,status:T=i.b.Default,isInviteAcceptedByCurrentUser:M,inviteCreatedBeforeDisconnect:P,"data-qa":S="slack-connect-card",ariaLabel:A=""}=u;const D=j&&Object(a.a)(j),R=b(),N=t.a.createElement(t.a.Fragment,null,f&&t.a.createEleme

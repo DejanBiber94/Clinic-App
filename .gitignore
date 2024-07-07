@@ -1,0 +1,47 @@
+# Wordpress - ignore core, configuration, examples, uploads and logs.
+# https://github.com/github/gitignore/blob/main/WordPress.gitignore
+
+# Ignore WordPress core files and directories
+app/public/wp-admin/
+app/public/wp-content/index.php
+app/public/wp-content/languages/
+app/public/wp-content/plugins/index.php
+app/public/wp-content/themes/index.php
+app/public/wp-content/updraft/
+app/public/wp-includes/
+app/public/index.php
+app/public/license.txt
+app/public/readme.html
+app/public/wp-*.php
+app/public/xmlrpc.php
+
+# Ignore configuration file
+app/public/wp-config.php
+
+# Ignore example themes
+app/public/wp-content/themes/twentytwentyfour/
+
+# Ignore example plugin
+app/public/wp-content/plugins/hello.php
+
+# Ignore uploads
+app/public/wp-content/uploads/
+
+# Ignore log files
+*.log
+
+# Ignore htaccess
+app/public/.htaccess
+
+# Ignore all plugins (whitelist custom plugins if necessary)
+app/public/wp-content/plugins/
+
+# Ignore all themes (whitelist custom themes if necessary)
+app/public/wp-content/themes/
+
+# Ignore all .sql files
+*.sql
+
+# Ignore conf and logs folders
+conf/
+logs/

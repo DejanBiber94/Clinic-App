@@ -36,9 +36,6 @@ app/public/.htaccess
 # Ignore all plugins (whitelist custom plugins if necessary)
 app/public/wp-content/plugins/
 
-# Ignore all themes (whitelist custom themes if necessary)
-app/public/wp-content/themes/
-
 # Ignore all .sql files
 *.sql
 
